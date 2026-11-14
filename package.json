@@ -1,0 +1,37 @@
+{
+  "name": "renewal-cna-school",
+  "version": "0.0.0",
+  "private": true,
+  "description": "CAL ACE Nursing Academy — Online CEU LMS Platform",
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev --filter=@calace/web --filter=@calace/api",
+    "dev:packages": "turbo run dev --filter=@calace/db --filter=@calace/ui",
+    "lint": "turbo run lint",
+    "typecheck": "turbo run typecheck",
+    "format": "prettier --write \"**/*.{ts,tsx,js,jsx,mjs,cjs,json,md,css,scss,yml,yaml}\"",
+    "format:check": "prettier --check \"**/*.{ts,tsx,js,jsx,mjs,cjs,json,md,css,scss,yml,yaml}\"",
+    "clean": "turbo run clean",
+    "db:generate": "pnpm --filter @calace/db db:generate",
+    "db:migrate": "pnpm --filter @calace/db db:migrate",
+    "db:migrate:deploy": "pnpm --filter @calace/db db:migrate:deploy",
+    "db:push": "pnpm --filter @calace/db db:push",
+    "db:studio": "pnpm --filter @calace/db db:studio",
+    "db:seed": "pnpm --filter @calace/db db:seed",
+    "postinstall": "pnpm db:generate",
+    "railway:build": "pnpm turbo run build --filter=@calace/api",
+    "railway:start": "node apps/api/dist/main.js"
+  },
+  "devDependencies": {
+    "@calace/eslint-config": "workspace:*",
+    "prettier": "^3.5.3",
+    "prettier-plugin-tailwindcss": "^0.6.11",
+    "turbo": "^2.5.4",
+    "typescript": "^5.8.3"
+  },
+  "packageManager": "pnpm@9.15.9",
+  "engines": {
+    "node": ">=20.11.0",
+    "pnpm": ">=9.0.0"
+  }
+}

@@ -1,0 +1,21 @@
+# Keep railway up uploads small (API only)
+.git
+.github
+.turbo
+**/.next
+**/dist
+**/node_modules
+**/.prisma-schema-hash
+.env
+.env.*
+**/.env
+**/.env.*
+*.md
+.csrf-cookies.txt
+apps/web
+docs
+branding
+assets
+prompts
+course-schema
+tools

@@ -1,0 +1,1193 @@
+   === Alcohol Use Disorder in Older Adults (alcohol-use-disorder) ===
+   Version: 1
+   Module 1: Understanding Alcohol Use Disorder in Older Adults (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Anxiety & PTSD in Older Adults (anxiety-ptsd) ===
+   Version: 1
+   Module 1: Understanding Anxiety & PTSD in Older Adults (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Asthma and Breathing Emergencies: The CNA's Role (asthma) ===
+   Version: 1
+   Module 1: Understanding Asthma (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Response, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Blood Sugar Emergencies: Hypoglycemia & Hyperglycemia (hypoglycemia-hyperglycemia) ===
+   Version: 1
+   Module 1: Understanding Blood Sugar Emergencies (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Bowel Health & Constipation Care (bowel-health-constipation) ===
+   Version: 1
+   Module 1: Understanding Bowel Health & Constipation (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === CNA Renewal Readiness & CDPH Documentation (cna-renewal-readiness) ===
+   Version: 1
+   Module 1: Course Content (main) — 2 lessons
+     - California Renewal Overview (renewal-overview)
+     - CDPH Forms & Documentation (cdph-forms)
+   TOTAL: 1 modules, 2 lessons
+
+   === COVID-19 & Emerging Respiratory Infections (covid-respiratory-illness) ===
+   Version: 1
+   Module 1: Understanding COVID & Respiratory Infections (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Caring for a Resident After a Stroke (stroke) ===
+   Version: 1
+   Module 1: Understanding Stroke (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Response, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Caring for a Resident with COPD (copd) ===
+   Version: 1
+   Module 1: Understanding COPD (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Breathing Support, Recognition, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Caring for a Resident with Chronic Kidney Disease (chronic-kidney-disease) ===
+   Version: 1
+   Module 1: Understanding Chronic Kidney Disease (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Caring for a Resident with Congestive Heart Failure (chf-care) ===
+   Version: 3
+   Module 1: Understanding CHF (module-1) — 4 lessons
+     - Introduction (s01-introduction)
+     - Terms & Definitions (s02-terms)
+     - Statistics (s03-statistics)
+     - Fundamentals (s04-fundamentals)
+   Module 2: What the CNA Sees and Does (module-2) — 4 lessons
+     - Signs & Symptoms (s05-signs)
+     - Causes (s06-causes)
+     - Medications & Treatment (s07-medications)
+     - Prevention (s08-prevention)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - When to Call Emergency or Doctor (s09-emergency)
+     - CNA's Role in Care (s10-cna-role)
+     - Brief Case Study (s11-case-study)
+     - Conclusion (s12-conclusion)
+   TOTAL: 3 modules, 12 lessons
+
+   === Caring for a Resident with Coronary Artery Disease (coronary-artery-disease) ===
+   Version: 1
+   Module 1: Understanding Coronary Artery Disease (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Response, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Caring for a Resident with Diabetes (Type 1 & Type 2) (diabetes) ===
+   Version: 1
+   Module 1: Understanding Diabetes (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Caring for a Resident with Dysphagia (Swallowing Difficulties) (dysphagia) ===
+   Version: 1
+   Module 1: Understanding Dysphagia & Aspiration (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Caring for a Resident with HIV / AIDS (hiv-aids) ===
+   Version: 1
+   Module 1: Understanding HIV / AIDS Care (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Caring for a Resident with Hepatitis (A, B & C) (hepatitis) ===
+   Version: 1
+   Module 1: Understanding Hepatitis and the CNA Role (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Caring for a Resident with Multiple Sclerosis (multiple-sclerosis) ===
+   Version: 1
+   Module 1: Understanding Multiple Sclerosis (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Caring for a Resident with Osteoporosis (osteoporosis) ===
+   Version: 1
+   Module 1: Understanding Osteoporosis (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Caring for a Resident with Parkinson's Disease (parkinsons) ===
+   Version: 1
+   Module 1: Understanding Parkinson's Disease (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Support, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Caring for a Resident with Rheumatoid Arthritis (rheumatoid-arthritis) ===
+   Version: 1
+   Module 1: Understanding Rheumatoid Arthritis (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Caring for a Resident with Urinary Incontinence (urinary-incontinence) ===
+   Version: 1
+   Module 1: Understanding Urinary Incontinence (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Caring for a Resident with a Joint Replacement (joint-replacement) ===
+   Version: 1
+   Module 1: Understanding Joint Replacement (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Caring for a Resident with a Spinal Cord Injury (spinal-cord-injury) ===
+   Version: 1
+   Module 1: Understanding Spinal Cord Injury (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Caring for a Resident with a Thyroid Disorder (thyroid-disorders) ===
+   Version: 1
+   Module 1: Understanding Thyroid Disorders (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Caring for a Resident with an Ostomy (ostomy-care) ===
+   Version: 1
+   Module 1: Understanding Ostomy Care (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Catheter Care & Preventing Urinary Tract Infections (catheter-care-uti) ===
+   Version: 1
+   Module 1: Understanding Catheter Care & UTIs (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Communication Skills in Long-Term Care (communication-skills) ===
+   Version: 4
+   Module 1: Therapeutic Communication (therapeutic-comm) — 2 lessons
+     - Active listening skills (active-listening)
+     - Nonverbal communication (nonverbal-cues)
+   Module 2: Team Communication (team-comm) — 2 lessons
+     - Shift handoffs (handoffs)
+     - Family interactions (family-interactions)
+   TOTAL: 2 modules, 4 lessons
+
+   === Dementia Care Essentials for Nursing Assistants (dementia-care-essentials) ===
+   Version: 1
+   Module 1: Course Content (main) — 1 lessons
+     - Dementia Overview (overview)
+   TOTAL: 1 modules, 1 lessons
+
+   === Dementia Care for Nursing Assistants (dementia-care) ===
+   Version: 1
+   Module 1: Understanding Dementia (understanding-dementia) — 3 lessons
+     - Recognizing Early Signs of Cognitive Decline (recognizing-early-signs)
+     - Types and stages of dementia (types-and-stages)
+     - Person-centered care principles (person-centered-care)
+   Module 2: Daily Care Skills (daily-care) — 2 lessons
+     - Bathing and hygiene strategies (bathing-and-hygiene)
+     - Nutrition and hydration support (nutrition-support)
+   Module 3: Course Assessment (assessment) — 1 lessons
+     - Knowledge check (knowledge-check)
+   TOTAL: 3 modules, 6 lessons
+
+   === Elder & Dependent Adult Abuse Reporting (elder-abuse-reporting) ===
+   Version: 1
+   Module 1: Recognition (recognition) — 2 lessons
+     - Types of abuse and neglect (types-of-abuse)
+     - Resident risk factors (risk-factors)
+   Module 2: Reporting (reporting) — 2 lessons
+     - Mandatory reporting in California (mandatory-reporting)
+     - Documentation essentials (documentation)
+   Module 3: Course Assessment (assessment) — 1 lessons
+     - Reporting knowledge check (reporting-quiz)
+   TOTAL: 3 modules, 5 lessons
+
+   === Hearing Impairment & Deaf Residents (hearing-impairment) ===
+   Version: 1
+   Module 1: Understanding Hearing Impairment & Deaf Residents (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Hypertension: Observation and Reporting for CNAs (hypertension) ===
+   Version: 1
+   Module 1: Understanding Hypertension (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Measurement, Recognition, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Infection Control & Prevention for Healthcare Settings (infection-control-prevention) ===
+   Version: 1
+   Module 1: Course Content (main) — 3 lessons
+     - Introduction & Learning Objectives (introduction)
+     - Standard Precautions & Hand Hygiene (standard-precautions)
+     - Final Review & Exam (final-review)
+   TOTAL: 1 modules, 3 lessons
+
+   === Infection Control for CNAs (infection-control) ===
+   Version: 1
+   Module 1: Prevention Basics (prevention-basics) — 2 lessons
+     - Chain of infection (chain-of-infection)
+     - Hand hygiene in practice (hand-hygiene)
+   Module 2: PPE & Precautions (ppe-and-precautions) — 2 lessons
+     - PPE selection and use (ppe-selection)
+     - Isolation precautions (isolation-precautions)
+   Module 3: Final Review (assessment) — 1 lessons
+     - Infection control quiz (final-quiz)
+   TOTAL: 3 modules, 5 lessons
+
+   === Legal & Ethical Issues in Nursing Practice (legal-ethical-nursing-practice) ===
+   Version: 1
+   Module 1: Course Content (main) — 2 lessons
+     - Scope of Practice & Patient Rights (scope-of-practice)
+     - Final Exam (final-exam)
+   TOTAL: 1 modules, 2 lessons
+
+   === MRSA & Drug-Resistant Infections (mrsa-resistant-infections) ===
+   Version: 1
+   Module 1: Understanding MRSA & Drug-Resistant Infections (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Malnutrition & Dehydration in the Elderly (malnutrition-elderly) ===
+   Version: 1
+   Module 1: Understanding Malnutrition & Dehydration in the Elderly (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Mobility & Transfer Safety (mobility-safety) ===
+   Version: 1
+   Module 1: Body Mechanics (body-mechanics) — 2 lessons
+     - CNA ergonomics fundamentals (ergonomics)
+     - Transfer techniques (transfer-techniques)
+   Module 2: Fall Prevention (fall-prevention) — 2 lessons
+     - Fall risk factors (risk-factors)
+     - Prevention planning (prevention-plan)
+   TOTAL: 2 modules, 4 lessons
+
+   === Pneumonia: Recognition and Care Support for CNAs (pneumonia) ===
+   Version: 1
+   Module 1: Understanding Pneumonia (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Preventing & Recognizing Pressure Injuries (pressure-injuries) ===
+   Version: 1
+   Module 1: Understanding Pressure Injuries (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Recognizing & Supporting Depression in Older Adults (depression) ===
+   Version: 1
+   Module 1: Understanding Depression in Older Adults (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Resident Rights & Advocacy (resident-rights) ===
+   Version: 1
+   Module 1: Rights Foundation (rights-foundation) — 2 lessons
+     - Federal resident rights overview (federal-rights)
+     - California-specific requirements (california-requirements)
+   Module 2: CNA Advocacy (advocacy) — 2 lessons
+     - Privacy and dignity (privacy-and-dignity)
+     - Rights knowledge check (quiz)
+   TOTAL: 2 modules, 4 lessons
+
+   === Seizures and Epilepsy: The CNA's Response (seizures-epilepsy) ===
+   Version: 1
+   Module 1: Understanding Seizures and Epilepsy (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Response, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Stress Management for Healthcare Workers (stress-management) ===
+   Version: 1
+   Module 1: Stress Awareness (awareness) — 2 lessons
+     - Recognizing burnout (burnout-signs)
+     - Coping tools for shifts (coping-tools)
+   Module 2: Building Resilience (resilience) — 1 lessons
+     - Reflection and action plan (reflection)
+   TOTAL: 2 modules, 3 lessons
+
+   === Supporting Autistic Adults & Older Adults (autism-in-adults) ===
+   Version: 1
+   Module 1: Understanding Autism in Adults & Older Adults (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Accommodation, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === The CNA's Role During a Cardiac Emergency (cardiac-emergency) ===
+   Version: 4
+   Module 1: Understanding Cardiac Emergencies (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Response, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Traumatic Brain Injury: What Every CNA Must Know (traumatic-brain-injury) ===
+   Version: 1
+   Module 1: Understanding Traumatic Brain Injury (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Tuberculosis: Warning Signs and Precautions Every CNA Must Know (tuberculosis) ===
+   Version: 1
+   Module 1: Understanding Tuberculosis (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Protection, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Vision Impairment & Eye Conditions (vision-impairment) ===
+   Version: 1
+   Module 1: Understanding Vision Impairment & Eye Conditions (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons
+
+   === Workplace Violence Prevention in Healthcare (workplace-violence-prevention) ===
+   Version: 1
+   Module 1: Course Content (main) — 2 lessons
+     - Recognition & De-escalation (recognition)
+     - Final Exam (final-exam)
+   TOTAL: 1 modules, 2 lessons
+
+   === Wound Observation & Basic Skin Care (wound-observation) ===
+   Version: 1
+   Module 1: Understanding Wound Observation & Skin Care (module-1) — 5 lessons
+     - Welcome (welcome)
+     - Course information (course-information)
+     - Learning objectives (learning-objectives)
+     - Instructor introduction (instructor-intro)
+     - Key terms (key-terms)
+   Module 2: Recognition, Prevention, and CNA Role (module-2) — 12 lessons
+     - Clinical overview video (mini-video)
+     - Core teaching content (core-teaching-content)
+     - Signs & Symptoms (signs-symptoms)
+     - Causes (causes)
+     - CNA role: do and do not (cna-role-guidance)
+     - CNA best practices (cna-best-practices)
+     - Scenario interaction (scenario-interaction)
+     - CNA's Role in Care (cna-role-in-care)
+     - Case study (case-study)
+     - Knowledge check 1 (knowledge-check-1)
+     - Knowledge check 2 (knowledge-check-2)
+     - Reflection (reflection-prompt)
+   Module 3: Action, Judgment, and Application (module-3) — 4 lessons
+     - Summary and recap (summary-recap)
+     - What happens next (what-happens-next)
+     - Attestation and compliance (completion-requirements)
+     - Certificate and transcript access (certificate-access)
+   TOTAL: 3 modules, 21 lessons

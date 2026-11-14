@@ -1,0 +1,60 @@
+{
+  "name": "@calace/ui",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "sideEffects": ["**/*.css"],
+  "type": "module",
+  "exports": {
+    "./globals.css": "./src/styles/globals.css",
+    "./certificate.css": "./src/styles/certificate.css",
+    "./transcript.css": "./src/styles/transcript.css",
+    "./postcss.config": "./postcss.config.mjs",
+    "./tailwind.config": "./tailwind.config.ts",
+    "./lib/utils": "./src/lib/utils.ts",
+    "./components/certificate": "./src/components/certificate/index.ts",
+    "./components/transcript": "./src/components/transcript/index.ts",
+    "./components/account": "./src/components/account/index.ts",
+    "./components/ui/*": "./src/components/ui/*.tsx",
+    "./components/ui/badge": "./src/components/ui/badge.tsx",
+    "./components/ui/card": "./src/components/ui/card.tsx",
+    "./components/ui/input": "./src/components/ui/input.tsx",
+    "./components/ui/progress": "./src/components/ui/progress.tsx",
+    "./components/ui/collapsible": "./src/components/ui/collapsible.tsx",
+    "./components/ui/separator": "./src/components/ui/separator.tsx"
+  },
+  "scripts": {
+    "build": "tsc",
+    "clean": "rimraf dist tsconfig.tsbuildinfo",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint . --max-warnings 0"
+  },
+  "peerDependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "dependencies": {
+    "@calace/compliance": "workspace:*",
+    "@radix-ui/react-collapsible": "^1.1.11",
+    "@radix-ui/react-slot": "^1.2.3",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.511.0",
+    "tailwind-merge": "^3.3.0",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@calace/eslint-config": "workspace:*",
+    "@calace/typescript-config": "workspace:*",
+    "@types/react": "^19.1.6",
+    "@types/react-dom": "^19.1.5",
+    "eslint": "^9.28.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "rimraf": "^6.0.1",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.8.3"
+  }
+}

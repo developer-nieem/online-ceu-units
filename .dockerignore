@@ -1,0 +1,23 @@
+# Keep Railway API image small and fast — exclude web/app assets
+.git
+.github
+.turbo
+**/.next
+**/dist
+**/node_modules
+**/.prisma-schema-hash
+.env
+.env.*
+**/.env
+**/.env.*
+*.md
+.csrf-cookies.txt
+
+# Frontend / marketing / content (not needed for Nest API image)
+apps/web
+docs
+branding
+assets
+prompts
+course-schema
+tools

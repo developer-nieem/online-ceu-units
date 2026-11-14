@@ -1,0 +1,34 @@
+{
+  "name": "@calace/ai-course-generation",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./governance": {
+      "types": "./dist/governance.d.ts",
+      "default": "./dist/governance.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc",
+    "clean": "rimraf dist tsconfig.tsbuildinfo",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint . --max-warnings 0"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.102.0",
+    "@calace/content-blocks": "workspace:*"
+  },
+  "devDependencies": {
+    "@calace/typescript-config": "workspace:*",
+    "@types/node": "^22.15.21",
+    "rimraf": "^6.0.1",
+    "typescript": "^5.8.3"
+  }
+}

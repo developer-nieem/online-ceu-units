@@ -1,0 +1,587 @@
+﻿=== COURSE 12 ΓÇö Caring for a Resident with Congestive Heart Failure ΓÇö seed-course-12-chf.ts ===
+--- [statistics/mini-video] block id: chf-s03-audio ---
+Congestive Heart Failure: Why the Numbers Matter to CNAs
+
+About 6.7 million adults in the United States are living with heart failure, and that number is growing as the population ages. Heart failure is the leading cause of hospitalization among adults aged 65 and older. Roughly 1 in 4 people will develop heart failure during their lifetime.
+
+In long-term care facilities, heart failure is one of the most common chronic conditions. Many residents live with CHF alongside other conditions like diabetes, kidney disease, and high blood pressure, which makes their care more complex.
+
+Here is the part that matters most for CNAs: a large share of heart failure hospitalizations are considered preventable. The crisis usually does not come out of nowhere. In the days before a hospitalization, residents typically gain weight from fluid buildup, their ankles swell more than usual, and they become more short of breath during ordinary activities like dressing or walking to the dining room.
+
+These early changes are exactly what a CNA sees during daily care ΓÇö at the morning weight, while putting on socks and shoes, while walking a resident to breakfast. A CNA who measures daily weight correctly, looks at the ankles every day, and reports a two-pound overnight gain gives the nurse and doctor time to adjust treatment before the resident ends up in the emergency room.
+
+California's long-term care population is one of the largest and most diverse in the nation. Residents come from many cultures and may describe their symptoms differently ΓÇö some may not complain at all. This makes the CNA's trained eyes even more important than the resident's words.
+--- [causes] block id: chf-s06-audio ---
+What Causes Congestive Heart Failure?
+
+Heart failure is usually the end result of other conditions that damage or overwork the heart over many years.
+
+The two biggest causes are coronary artery disease and high blood pressure. Coronary artery disease means the blood vessels that feed the heart muscle itself have narrowed. The heart muscle is slowly starved of oxygen and weakens. A previous heart attack causes the same problem suddenly ΓÇö part of the heart muscle dies and the rest must work harder.
+
+High blood pressure forces the heart to pump against constant resistance, like lifting weights all day, every day, for decades. Eventually the heart muscle becomes thick and stiff, or stretched and weak.
+
+Other contributors include diabetes, which damages blood vessels throughout the body; heart valve problems, where the doors inside the heart leak or won't open fully; abnormal heart rhythms such as atrial fibrillation; long-term kidney disease, which causes the body to hold fluid; obesity; smoking; and heavy alcohol use over many years.
+
+In long-term care, the highest-risk residents are those with several of these conditions at once ΓÇö for example, a resident with diabetes, high blood pressure, and kidney disease carries far more risk than a resident with one condition alone. Age matters too: the heart naturally stiffens with age, so the risk rises sharply after sixty-five.
+
+Some causes were avoidable earlier in life ΓÇö smoking, diet, untreated blood pressure. Others were not. For the CNA, the cause changes nothing about the care and everything about the watchfulness: a resident whose chart lists heart failure plus diabetes plus kidney disease deserves your closest daily attention to weight, swelling, and breathing.
+--- [emergency/scenario intro] block id: chf-s09-intro-audio ---
+This is the most important five minutes of this course. With CHF, knowing the difference between "tell the nurse today" and "emergency right now" can save a life. You're about to work through two situations. Read each one carefully. Choose what you would do. You'll get feedback right away. Take your time ΓÇö at the bedside, you'll have less of it.
+--- [case study] block id: chf-s11-audio ---
+Mr. Dela Cruz, 78, has lived at the facility for two years. His chart lists CHF, type 2 diabetes, and high blood pressure. He is proud, independent, and never complains.
+
+**Monday:** CNA Rosa weighs him at 6:45 a.m. ΓÇö 182 pounds, same as the day before. While helping with his shoes, she notices his sock lines look slightly deeper than usual. He says he is fine. Rosa mentions the sock lines to the nurse in passing; the nurse notes it.
+
+**Tuesday:** Weight 184.5 pounds. The swelling now reaches above his ankles, and he asks Rosa to leave his slippers on instead of shoes ΓÇö "shoes feel small today." At lunch he eats half his meal and says he's "just tired." Rosa reports the 2.5-pound gain, the higher swelling, the tight shoes, and the poor appetite to the nurse before her break. The nurse assesses him and calls the doctor. The doctor adjusts his diuretic dose that afternoon and orders strict I&O.
+
+**Wednesday:** Weight 183 pounds and falling. Mr. Dela Cruz urinates frequently through the morning ΓÇö Rosa anticipates it, offers the bathroom hourly, and he has no falls and no accidents. By Thursday his weight is back to 181.5 and the swelling has eased. He never went to the hospital.
+
+**Discussion:** A 2.5-pound gain, deeper sock lines, and tight shoes ΓÇö none of these look dramatic. Mr. Dela Cruz said he was fine every single day. Rosa trusted the measurements and her eyes over his words, reported the same shift, and the system worked exactly as designed: CNA observes ΓåÆ nurse assesses ΓåÆ doctor adjusts ΓåÆ crisis prevented.
+
+=== COURSE 13 ΓÇö The CNA's Role During a Cardiac Emergency ΓÇö seed-course-13-cardiac-emergencies.ts ===
+--- [statistics/mini-video] block id: cardiac-mv-audio ---
+Cardiac Emergencies: Why Seconds Decide Everything
+
+More than 350,000 cardiac arrests happen outside of hospitals each year in the United States. A large share occur in older adults, and long-term care facilities see them regularly because their residents often have heart disease, high blood pressure, and other risk factors.
+
+Here is the statistic that shapes everything a CNA does: for every minute that passes without CPR and defibrillation, the chance of survival drops by roughly 7 to 10 percent. After about ten minutes with no response, survival becomes very unlikely. This is why a cardiac arrest is one of the only events in healthcare where the response is measured in seconds.
+
+When CPR is started immediately by a bystander ΓÇö before professional responders arrive ΓÇö it can double or even triple the person's chance of survival. In a care facility, that immediate bystander is almost always a CNA or a nurse who happens to be closest.
+
+Yet studies show that immediate response does not always happen. Sometimes people freeze. Sometimes they waste precious time deciding whether it's "really" an emergency, or looking for someone else to take charge. The difference between a facility with good outcomes and one with poor outcomes is often not equipment ΓÇö it's whether the first person on the scene recognized the emergency instantly and activated help without hesitating.
+
+For long-term care, there is one more factor: many residents have do-not-resuscitate orders, or DNRs. A CNA must know that these orders exist and that the nurse directs what happens ΓÇö but a CNA never decides on their own whether to respond. The CNA's job is always the same: recognize, call for help immediately, and let the nurse and the care plan direct the response.
+
+The bottom line: equipment and training matter, but the single biggest factor in survival is how fast the first person acts. In most care facilities, that first person is a CNA.
+--- [causes] block id: cardiac-causes-audio ---
+What Causes Cardiac Emergencies?
+
+Most cardiac emergencies in older adults come from coronary artery disease ΓÇö the slow narrowing of the vessels that feed the heart muscle. When one of these narrowed vessels becomes fully blocked by a blood clot, a heart attack happens. If enough heart muscle is damaged, or if the electrical system is disrupted, the heart can stop entirely ΓÇö cardiac arrest.
+
+Several conditions raise the risk, and many long-term care residents have several of them at once. High blood pressure strains the heart for years. Diabetes damages blood vessels and can hide the usual warning signs of a heart attack. Previous heart attacks leave scarred muscle that is more likely to develop dangerous rhythms. Congestive heart failure weakens the pump. Abnormal heart rhythms, like atrial fibrillation, can sometimes lead to arrest.
+
+Other triggers include severe electrolyte imbalances ΓÇö for example, potassium levels that are too high or too low ΓÇö which can disturb the heart's electrical signals. Certain medications, severe infections, and major physical stress can also contribute.
+
+Lifestyle factors that built up over a lifetime matter too: smoking, long-term poor diet, physical inactivity, and obesity all raise cardiac risk.
+
+For the CNA, here is what this means in practice. The residents who need your closest attention are those whose charts list heart disease, a prior heart attack, heart failure, diabetes, or abnormal heart rhythms ΓÇö especially when several appear together. You are not expected to predict who will have an emergency. You are expected to know which residents carry higher risk, to watch them a little more closely, and to respond instantly when any resident shows the signs you learned in the last section.
+--- [emergency/scenario intro] block id: cardiac-si-intro-audio ---
+This section is the heart of the course. In a cardiac emergency, the difference between the right response and the wrong one is measured in seconds. You're about to work through two situations. Read each carefully. Choose your action. You'll get feedback right away. There is no penalty for treating something as an emergency ΓÇö only for hesitating when it is one.
+--- [case study] block id: cardiac-cs-audio ---
+CNA Maria was helping residents to breakfast when she passed Mr. Abboud's room and glanced in, as she always did. He was sitting in his bedside chair, head dropped to one side. Something looked wrong.
+
+**The recognition (0 seconds):** Maria stepped in and called his name. No answer. She tapped his shoulder firmly and shouted, "Mr. Abboud, are you okay?" Nothing. She looked at his chest ΓÇö no normal breathing, just one slow gasp. She knew instantly: this was cardiac arrest, and she did not stop to be sure.
+
+**The activation (15 seconds):** Maria pressed the emergency call button on the wall and shouted down the hall, "Code Blue, room 14, I need help now!" She did not leave the room to find the nurse ΓÇö she summoned help to her.
+
+**The response (30ΓÇô90 seconds):** As the nurse ran in, Maria had already moved the bedside table out of the way and was clearing space. The nurse directed her: "Get the AED." Maria knew exactly where it was ΓÇö she had checked that morning, as she did every shift ΓÇö and had it at the bedside in under a minute. Because Maria held current CPR certification and the nurse directed it, she began compressions while the nurse readied the AED, following her training and facility policy.
+
+**The team (2+ minutes):** The code team arrived. Maria stepped into her supporting role ΓÇö guiding Mr. Abboud's frightened roommate to the lounge, directing the paramedics to the room, and noting the times she remembered. The team took over the clinical response.
+
+**The outcome:** Mr. Abboud was transported with a pulse restored. Later, the nurse told Maria plainly: "He's alive because you didn't hesitate." Maria also admitted she felt shaken the rest of the day ΓÇö and her supervisor made sure she had someone to talk to.
+
+**Discussion:** Notice what made the difference. Maria recognized the emergency in seconds and did not waste time second-guessing. She activated help where she stood instead of leaving. She knew her equipment location because she checked it every shift. She acted within her certification and her facility's direction. And afterward, she accepted support. Every one of these is something any CNA can do.
+
+=== COURSE 14 ΓÇö Hypertension: Observation and Reporting for CNAs ΓÇö seed-course-14-hypertension.ts ===
+--- [statistics/mini-video] block id: htn-mv-audio ---
+High Blood Pressure: The Silent Epidemic in Long-Term Care
+
+Nearly half of all adults in the United States have high blood pressure ΓÇö about 120 million people. Among adults over 65, the number is even higher: the majority of older adults have hypertension, whether they know it or not.
+
+What makes hypertension so dangerous is that most people feel nothing. There are usually no symptoms until serious damage has already been done. That is why it is called the silent killer. High blood pressure is a leading cause of stroke, heart attack, heart failure, and kidney disease ΓÇö and it often contributes to all of them quietly, over many years.
+
+In long-term care facilities, the vast majority of residents have a blood pressure that needs monitoring. Many are on one or more medications to control it. For these residents, the regular blood pressure check is one of the most important measurements taken all day.
+
+Here is why the CNA matters so much. Because hypertension has no symptoms, the only way to detect it and track it is to measure it ΓÇö accurately and consistently. A blood pressure taken with the wrong cuff size, with the resident's arm dangling, or right after they walked down the hall, can be off by ten, twenty, even thirty points. That wrong number can cause a real problem: a medication might be changed based on a reading that was never accurate.
+
+Studies consistently show that blood pressure measurement errors are common ΓÇö and most of them come from small technique mistakes that are completely preventable. The CNA who measures correctly every time, and who reports readings that are too high or too low, gives the medical team accurate information to protect the resident from stroke, heart attack, and falls.
+
+The bottom line: hypertension is everywhere, it is silent, and the accuracy of the CNA's measurement is the foundation of the resident's care.
+--- [causes] block id: htn-causes-audio ---
+What Causes High Blood Pressure?
+
+For most people, high blood pressure develops slowly over many years, and there is no single cause. This is called primary or essential hypertension, and it's by far the most common type. It results from a mix of factors that build up over a lifetime.
+
+Age is one of the biggest. As people get older, their arteries naturally become stiffer and less flexible, which raises blood pressure. This is why hypertension is so common in long-term care.
+
+Lifestyle plays a large role. A diet high in salt makes the body hold onto fluid, raising pressure. Being overweight, physical inactivity, heavy alcohol use, and smoking all push blood pressure up over time. Long-term stress can contribute as well.
+
+Family history matters too ΓÇö high blood pressure tends to run in families. And certain groups carry higher risk; for example, hypertension is more common and often more severe among African American adults, and tends to develop earlier in life.
+
+Sometimes high blood pressure is caused by another medical condition ΓÇö this is called secondary hypertension. Kidney disease, thyroid problems, sleep apnea, and certain medications can all raise blood pressure. When the underlying cause is treated, the pressure often improves.
+
+For the CNA, here's what this means day to day. You are not expected to know why a particular resident has high blood pressure. You are expected to understand that most of your residents will have it, that it's controlled with medication and lifestyle measures written in the care plan, and that supporting those measures ΓÇö the low-salt diet, the activity level, the medication schedule the nurse manages ΓÇö and measuring accurately, is how you help keep it under control.
+--- [emergency/scenario intro] block id: htn-si-intro-audio ---
+A blood pressure reading is more than a number to write down. Sometimes it's a signal that something serious is happening right now. In this section, you'll work through two situations. Read each carefully, choose your action, and you'll get feedback right away. Remember the theme of this whole course: you measure and you report ΓÇö the nurse decides what it means and what to do.
+--- [case study] block id: htn-cs-audio ---
+CNA Carlos was taking routine afternoon blood pressures on his hall. Most residents were in their usual ranges. Then he got to Mrs. Yamamoto.
+
+**The reading (the moment that mattered):** Carlos took Mrs. Yamamoto's pressure exactly the way he was trained ΓÇö she'd been resting, her arm was supported on the table at heart level, the right cuff on bare skin, and she wasn't talking. The monitor read 186 over 116. That was much higher than her usual reading of around 138 over 84.
+
+**The temptation:** Carlos paused. Mrs. Yamamoto looked completely fine. She was chatting cheerfully about her grandson's visit. For a second, Carlos wondered if the machine was wrong, and thought about just writing down something closer to her normal so he wouldn't "worry anyone." He didn't. He rechecked it properly instead ΓÇö still very high.
+
+**The right move:** Carlos recorded the true reading immediately ΓÇö 186 over 116, right arm, 2:15 p.m. He asked Mrs. Yamamoto a few gentle questions: any headache? Any blurred vision? She mentioned, almost as an afterthought, that she'd had "a bit of a headache" since lunch and her vision seemed "a little fuzzy." Carlos reported all of it to the nurse right away ΓÇö the reading, the headache, the vision.
+
+**The outcome:** The nurse assessed Mrs. Yamamoto, confirmed the high reading, and reached the doctor. It turned out she had missed her morning blood pressure medication during a busy schedule change. The doctor gave orders, her pressure was brought down safely over the next hours, and a possible stroke was very likely prevented ΓÇö all because the reading was accurate and honest, and reported fast.
+
+**Discussion:** Mrs. Yamamoto seemed perfectly fine. That's the trap of the silent killer. If Carlos had rounded the number to look normal, or skipped reporting because she "seemed okay," the missed medication and the dangerous pressure would have gone unnoticed. He measured correctly, recorded honestly, asked about symptoms, and reported fast. That's the entire CNA role in hypertension, done exactly right.
+
+=== COURSE 15 ΓÇö Caring for a Resident After a Stroke ΓÇö seed-course-15-stroke.ts ===
+--- [statistics/mini-video] block id: str-mv-audio ---
+Stroke: Why Every Minute Matters
+
+Stroke is one of the leading causes of death and the leading cause of long-term disability in the United States. About 800,000 people have a stroke each year ΓÇö that's roughly one stroke every 40 seconds. The risk rises sharply with age, which is why stroke is so common among long-term care residents.
+
+Here is the statistic that drives everything a CNA does during an acute stroke: when a stroke happens, the brain loses about 1.9 million nerve cells every minute that blood flow is blocked. Doctors put it simply ΓÇö time is brain. There are treatments that can dramatically reduce the damage of the most common type of stroke, but they only work if given within a few hours of the first symptom. The clock starts the moment symptoms begin, which means the moment someone recognizes them.
+
+That someone is very often a CNA. Because CNAs spend the most time with residents, they are frequently the first to notice a face drooping, an arm going weak, or speech becoming slurred. A CNA who recognizes these signs and calls for help immediately can be the reason a resident gets life-saving, disability-reducing treatment in time.
+
+The second part of the story is recovery. Most people survive their stroke ΓÇö there are more than 7 million stroke survivors living in the United States. Many of them need help with daily activities because of weakness, speech difficulties, swallowing problems, or changes in thinking. A large share of long-term care residents are stroke survivors, and the daily care a CNA provides ΓÇö safe transfers, careful feeding, patient communication, skin protection, and emotional support ΓÇö is central to their quality of life.
+
+The bottom line: in the acute moment, fast recognition by a CNA saves brain. In the months and years after, skilled daily care by a CNA restores dignity and quality of life. Both halves of stroke care depend heavily on the CNA.
+--- [causes] block id: str-causes-audio ---
+What Causes a Stroke?
+
+A stroke happens when blood flow to the brain is interrupted, but several different conditions can lead to that moment.
+
+The biggest risk factor by far is high blood pressure. Years of high pressure damage and weaken blood vessels throughout the body, including in the brain, making both clots and ruptures more likely. Controlling blood pressure is the single most powerful way to prevent stroke ΓÇö which is one reason accurate blood pressure care matters so much.
+
+Another major cause is atrial fibrillation, an irregular heart rhythm. When the heart beats irregularly, blood can pool and form clots. One of those clots can travel to the brain and block a vessel. Many residents with atrial fibrillation take blood thinners specifically to prevent this kind of stroke.
+
+Other important risk factors include diabetes, which damages blood vessels; high cholesterol, which narrows them; smoking; obesity; and a history of a previous stroke or a TIA, the mini-stroke that serves as a warning. Age itself is a strong factor ΓÇö stroke risk roughly doubles each decade after age 55, which is why it is so common in long-term care.
+
+Hemorrhagic strokes ΓÇö the bleeding kind ΓÇö are often linked to very high blood pressure and to weak spots in blood vessels. Certain blood-thinning medications, while they prevent clot-type strokes, can slightly raise the risk of bleeding ΓÇö which is one reason these residents are watched carefully.
+
+For the CNA, the practical message is this. Many of your residents carry several stroke risk factors at once ΓÇö high blood pressure, atrial fibrillation, diabetes, a prior stroke. You are not expected to predict who will have a stroke. You are expected to support the care that lowers their risk ΓÇö accurate blood pressure measurement, the prescribed diet, medication schedules the nurse manages ΓÇö and to recognize a stroke instantly if one happens, in any resident, at any time.
+--- [emergency/scenario intro] block id: str-si-intro-audio ---
+In stroke, time is brain. The faster you recognize the signs and call for help, the more of the resident can be saved. You're about to work through two situations. Read each carefully, choose your action, and you'll get feedback right away. Keep FAST in your mind: Face, Arm, Speech, Time.
+--- [case study] block id: str-cs-audio ---
+CNA Aimee was doing her morning rounds, bringing coffee to residents who were allowed it. Mrs. Okonkwo was usually bright and chatty in the mornings.
+
+**The moment (the recognition):** When Aimee set the coffee down, Mrs. Okonkwo reached for it ΓÇö but her right hand fumbled and couldn't grip the cup. Aimee looked up at her face. The right corner of her mouth was drooping. "Good morning, Mrs. Okonkwo," Aimee said. Mrs. Okonkwo tried to answer, but the words came out slurred and tangled. Twenty minutes earlier, during the weigh, she had been completely normal.
+
+**What Aimee did NOT do:** Aimee did not pour the coffee or help her drink it ΓÇö she knew swallowing might be affected. She did not wait to "see if it passes." She did not go searching down the hall for the nurse, leaving Mrs. Okonkwo alone.
+
+**What Aimee DID:** Aimee ran FAST in her head in seconds ΓÇö Face drooping, Arm weak, Speech slurred ΓÇö three signs. She glanced at the clock: 7:52 a.m. She pressed the emergency call button on the wall and called out clearly: "I need the nurse in room 12 now ΓÇö possible stroke." She stayed with Mrs. Okonkwo, kept her calm, and kept nothing in her mouth. When the nurse arrived, Aimee reported exactly: "Sudden facial droop, right-arm weakness, slurred speech ΓÇö all started within the last twenty minutes. Last known normal was 7:30 at the weigh. I first saw it at 7:52."
+
+**The outcome:** Because Aimee recognized the stroke immediately and pinned down the timing, Mrs. Okonkwo reached the hospital well within the treatment window. She received clot-dissolving treatment and recovered much of her function over the following weeks. The nurse later told Aimee that her note about "last known normal at 7:30" was the detail the hospital needed most.
+
+**Discussion:** Aimee's whole response took less than a minute, but every piece mattered. She recognized FAST signs instantly. She protected Mrs. Okonkwo by giving her nothing to eat or drink. She summoned help instead of leaving. And she captured the timing ΓÇö the single most important fact for stroke treatment. None of it required a diagnosis or a medication. It required a trained CNA who knew FAST and acted.
+
+=== COURSE 16 ΓÇö Caring for a Resident with Coronary Artery Disease ΓÇö seed-course-16-coronary-artery-disease.ts ===
+--- [statistics/mini-video] block id: cad-mv-audio ---
+Coronary Artery Disease: The Most Common Heart Problem
+
+Coronary artery disease is the most common type of heart disease and the leading cause of death for adults in the United States. About 20 million American adults have CAD. Because it builds up silently over decades, it is especially common in older adults ΓÇö which means a large share of long-term care residents are living with it.
+
+CAD is the engine behind many other cardiac problems. It is the leading cause of heart attacks. It is a major contributor to heart failure, because a heart starved of oxygen over time grows weaker. And it can trigger dangerous abnormal heart rhythms. So when you care for a resident with CAD, you are caring for the root condition behind much of cardiac medicine.
+
+The disease develops slowly. Fatty plaque builds up inside the coronary arteries over many years, gradually narrowing them. For a long time, a resident may have no symptoms at all. Then, as the narrowing worsens, the heart muscle starts to run short of oxygen when it has to work harder ΓÇö climbing stairs, walking to meals, even strong emotion. This is angina, the warning sign.
+
+Here is what matters most for the CNA. Many cardiac events in CAD are linked to exertion and stress ΓÇö exactly the activities of daily living that CNAs assist with. A CNA who knows a resident has CAD can pace activities, allow rest, recognize angina early, and respond fast to chest pain. And crucially, a CNA who can tell the difference between angina that eases with rest and a heart attack that doesn't can make sure a true emergency gets a true emergency response.
+
+The encouraging part: CAD is highly manageable. With medication, a heart-healthy diet, appropriate activity, and good daily care, residents with CAD can live full, comfortable lives. Much of that good daily care is delivered by CNAs.
+--- [causes] block id: cad-causes-audio ---
+What Causes Coronary Artery Disease?
+
+Coronary artery disease develops slowly, over decades, as fatty plaque builds up inside the coronary arteries. Several factors speed up that buildup, and many of your residents have more than one.
+
+High cholesterol is a major driver. When there's too much of the wrong kind of cholesterol in the blood, it deposits in the artery walls and forms plaque. High blood pressure adds to the damage by constantly stressing the artery walls, making them more likely to accumulate plaque and harden. Diabetes is another powerful contributor ΓÇö high blood sugar damages blood vessels throughout the body, including the coronary arteries, which is why people with diabetes have a much higher risk of heart disease.
+
+Lifestyle factors built up over a lifetime matter a great deal. Smoking damages artery walls and speeds plaque buildup dramatically. A diet high in unhealthy fats and salt, physical inactivity, and obesity all push the process forward. Long-term stress can contribute too.
+
+Some factors can't be changed. Age is a strong one ΓÇö arteries naturally accumulate more plaque over time, which is why CAD is so common in older adults. Family history matters; heart disease runs in families. And men tend to develop CAD earlier in life, though women's risk rises sharply after menopause.
+
+For the CNA, the practical message is this. The residents who need the closest attention are those whose charts list CAD along with high blood pressure, diabetes, high cholesterol, or a prior heart attack ΓÇö and especially those who are still smokers. You're not expected to treat any of these. You're expected to support the heart-healthy care plan faithfully ΓÇö the diet, the activity, the medication schedule the nurse manages ΓÇö and to recognize and respond to cardiac symptoms quickly.
+--- [emergency/scenario intro] block id: cad-si-intro-audio ---
+In coronary artery disease, the most important judgment you'll make is telling angina apart from a heart attack ΓÇö one you report, one you treat as a 911 emergency. You're about to work through two situations. Read each carefully, choose your action, and you'll get feedback right away. Keep the rule in mind: chest pain that does not ease with rest is treated as an emergency.
+--- [case study] block id: cad-cs-audio ---
+Mr. Halloran, 81, has coronary artery disease and a history of angina. His CNA, Dev, had cared for him for months and knew his patterns well.
+
+**Episode one ΓÇö Tuesday morning:** While Dev was helping Mr. Halloran walk to the dining room, Mr. Halloran stopped and said, "Hold on ΓÇö getting that pressure again." Dev recognized it: chest tightness, brought on by walking, exactly like Mr. Halloran's usual angina. Dev helped him sit on a nearby bench and stayed right with him. Within a few minutes, Mr. Halloran said, "Okay, it's easing off." He wasn't sweating, his color was good. Dev finished walking him slowly to lunch ΓÇö and then, importantly, reported the episode to the nurse: "Chest tightness while walking, eased with about three minutes of rest, no sweating, color normal." The nurse noted it and kept watch. This was angina, reported correctly.
+
+**Episode two ΓÇö Friday evening:** Mr. Halloran was sitting in his recliner, not doing anything strenuous, when he pressed the call light. Dev found him pale and sweating, gripping his chest. "It's bad this time," he said. "It's in my arm too, and I feel sick to my stomach." Dev helped him stay seated and calm, and noticed this was completely different ΓÇö at rest, more severe, with sweating and nausea, spreading to the arm. Dev did not wait to see if it would ease. Dev did not reach for the nitroglycerin in the drawer.
+
+**What Dev did:** Dev pressed the emergency call button and called out clearly: "Chest pain at rest, sweating, room 8 ΓÇö I need help now." Dev stayed with Mr. Halloran, kept him resting and calm, and gave him nothing. When the nurse arrived, Dev reported precisely: "Chest pain at rest, not eased, spreading to the left arm, sweating, nauseated, started about five minutes ago." Emergency services were activated.
+
+**The outcome:** Mr. Halloran was having a heart attack. Because Dev recognized that this episode was different from the angina ΓÇö it didn't ease, it came at rest, it had the danger signs ΓÇö and activated emergency help immediately without giving any medication, Mr. Halloran reached the hospital quickly and survived.
+
+**Discussion:** Same resident, same chest, two completely different episodes ΓÇö and two correctly different responses. On Tuesday, exertional discomfort that eased with rest: report it. On Friday, discomfort at rest that didn't ease, with sweating and nausea: emergency. Dev never diagnosed anything and never gave a medication. Dev knew the difference, watched the resident closely, and matched the response to the signs.
+
+=== COURSE 17 ΓÇö Caring for a Resident with COPD ΓÇö seed-course-17-copd.ts ===
+--- [statistics/mini-video] block id: copd-mv-audio ---
+COPD: A Common and Limiting Disease
+
+Chronic obstructive pulmonary disease affects about 16 million diagnosed adults in the United States, and millions more likely have it without a diagnosis. It is one of the leading causes of death in the country, and it is especially common among older adults ΓÇö which is why so many long-term care residents live with it.
+
+COPD is a disease that steals breath gradually. It develops over many years, usually from long-term damage to the lungs. By the time someone is in long-term care with COPD, the disease is often advanced, and even small activities ΓÇö dressing, walking a short distance, bathing, sometimes just talking ΓÇö can leave them breathless.
+
+Here is what matters most for the CNA. COPD flare-ups, called exacerbations, are one of the most common reasons residents with COPD are hospitalized. A flare-up means a sudden worsening of breathing, often triggered by a respiratory infection. And many of these hospitalizations are preventable when a flare-up is caught early. The CNA who notices that a resident is more short of breath than usual, coughing more, or producing more or differently colored mucus ΓÇö and reports it promptly ΓÇö gives the medical team the chance to treat the flare-up before it becomes a crisis.
+
+There is also a daily quality-of-life story. Studies show that the everyday care a resident with COPD receives ΓÇö being positioned to breathe easier, having activities paced with rest, having a calm and irritant-free environment, being coached to breathe effectively ΓÇö has a real, measurable effect on how well they breathe and how much they can do. That care is delivered, every shift, by CNAs.
+
+The bottom line: COPD is common, it is limiting, and the CNA's daily positioning, pacing, environment management, and quick recognition of flare-ups make a genuine difference in both safety and quality of life.
+--- [causes] block id: copd-causes-audio ---
+What Causes COPD ΓÇö and What Triggers Flare-Ups?
+
+The most common cause of COPD, by far, is long-term smoking. Years of tobacco smoke damage the airways and air sacs in ways that don't heal. Many residents with COPD smoked for decades, often long ago. It's important for CNAs to approach this without judgment ΓÇö these residents need care and compassion, not blame, and many quit years before their disease became severe.
+
+But smoking isn't the only cause. Long-term exposure to other lung irritants causes COPD too ΓÇö things like air pollution, secondhand smoke, dust, fumes, and chemicals, often from a lifetime of certain kinds of work. There's also a rare genetic condition that causes COPD in people who never smoked. So while smoking is the leading cause, not every resident with COPD was a smoker.
+
+For the CNA, what matters even more than the original cause is understanding what triggers flare-ups ΓÇö because preventing and catching flare-ups is daily, hands-on work.
+
+Respiratory infections are the biggest trigger. A cold, the flu, or pneumonia can quickly worsen COPD. This is why hand hygiene, keeping sick visitors away, and supporting flu and pneumonia vaccines matter so much for these residents. Air irritants trigger flare-ups too ΓÇö smoke, strong perfumes and cleaning fumes, dust, and even very cold or very hot air. Strong emotions and over-exertion can bring on breathlessness as well.
+
+So here's the practical message. You can't undo the lung damage, but you can powerfully reduce flare-ups: protect residents from infection through good hygiene, keep their air clean and free of irritants, pace their activities, and catch the early signs of a flare-up fast. That's prevention you deliver every shift.
+--- [emergency/scenario intro] block id: copd-si-intro-audio ---
+In COPD, the key judgments are knowing when breathing has worsened enough to report a flare-up, and when it's a true respiratory emergency. You're about to work through two situations. Read each carefully, choose your action, and you'll get feedback right away. And keep one rule front of mind: you never turn up a resident's oxygen yourself, no matter how short of breath they are.
+--- [case study] block id: copd-cs-audio ---
+Mr. Castellano, 76, has had COPD for years. He uses oxygen at 2 liters and inhalers managed by the nursing staff. His CNA, Priya, knew his breathing well ΓÇö his usual morning cough, his slight wheeze, how he got winded dressing but recovered with a rest.
+
+**The early sign (Monday):** While helping Mr. Castellano dress, Priya noticed he was more winded than usual and needed two rest breaks instead of one. When he coughed, the mucus looked thicker and slightly yellow ΓÇö different from his usual clear. He waved it off: "Just a rough morning." Priya didn't wave it off. She knew his normal, and this was a change. She reported it to the nurse right away: "More short of breath than usual dressing, two rest breaks, and his mucus is thicker and turning yellow." The nurse assessed him and started watching closely.
+
+**The progression caught early (Tuesday):** By Tuesday the mucus was yellow-green and he had a low fever. Because Priya's Monday report had the team already watching, the nurse reached the doctor early. The doctor diagnosed a COPD flare-up from a developing chest infection and started antibiotics and a steroid that same day ΓÇö while Mr. Castellano was still talking normally and only mildly more short of breath.
+
+**What Priya kept doing:** Throughout, Priya positioned him upright to breathe easier, paced his care with extra rest, coached pursed-lip breathing when he got anxious, kept his oxygen tubing clear ΓÇö and never once adjusted the flow rate, even when he said he felt short of breath. She reported each day how his breathing compared to his normal.
+
+**The outcome:** Treated early, Mr. Castellano's flare-up resolved over several days without a hospital stay. The nurse told Priya plainly: "You caught this on Monday. If we'd waited until he was really struggling, he'd have ended up in the ER ΓÇö or worse."
+
+**Discussion:** The whole save started with one observation: mucus changing from clear to yellow, and a little more breathlessness than usual. Priya knew Mr. Castellano's normal, noticed the change, and reported it promptly instead of accepting "just a rough morning." She supported his breathing all the way through and never crossed her scope by touching the oxygen. Early recognition, faithful daily care, and scope discipline ΓÇö that's the whole CNA role in COPD, done right.
+
+=== COURSE 18 ΓÇö Asthma and Breathing Emergencies: The CNA's Role ΓÇö seed-course-18-asthma.ts ===
+--- [statistics/mini-video] block id: asthma-mv-audio ---
+Asthma in Older Adults: More Serious Than People Think
+
+Asthma affects about 25 million people in the United States ΓÇö and while many think of it as a childhood condition, more than 2 million of those are adults over 65. Asthma does not disappear with age, and for older adults it can be especially dangerous.
+
+Here is why asthma is more serious in the long-term care population. Older adults often have less breathing reserve to begin with, and many have other conditions ΓÇö heart disease, COPD, weakened immune systems ΓÇö that make an asthma attack harder to recover from. They may also have a harder time recognizing or describing their symptoms, and asthma in older adults is sometimes under-recognized and under-treated. The result is that asthma attacks in older adults are more likely to require hospitalization and are more likely to be fatal than in younger people.
+
+Most asthma deaths are considered preventable. They happen when an attack isn't recognized early, when triggers aren't controlled, or when help comes too slowly. This is exactly where CNAs make a difference. Many asthma attacks are set off by triggers in the environment ΓÇö dust, smoke, strong scents, cold air, respiratory infections. A CNA who keeps a resident's environment clean and trigger-free prevents attacks before they start. And when an attack does begin, a CNA who recognizes it fast, stays calm, and gets help immediately can be the reason it doesn't become a tragedy.
+
+There's also a daily management story. When residents take their controller medications consistently and avoid their triggers, asthma can be well-controlled and attacks become rare. CNAs support that daily control through the environment they maintain and the observations they report.
+
+The bottom line: asthma in older adults is common and dangerous, most bad outcomes are preventable, and the CNA's trigger control and fast recognition are central to keeping residents safe.
+--- [causes] block id: asthma-causes-audio ---
+What Causes Asthma ΓÇö and What Triggers Attacks?
+
+Asthma itself comes from a combination of genetics and environment. People with asthma have airways that are naturally more sensitive and prone to inflammation. This tendency often runs in families, and it can be linked to allergies. Some people have asthma their whole lives; others develop it later in adulthood, sometimes after a respiratory infection or long exposure to lung irritants.
+
+But for the CNA, the most useful thing to understand is not the original cause ΓÇö it's the triggers, because triggers are what a CNA can actually control.
+
+The most common triggers fall into a few groups. Irritants in the air: dust, smoke of any kind, strong perfumes and scented products, cleaning fumes, and air fresheners. Allergens: pollen, mold, dust mites, and animal dander. Respiratory infections: a cold, the flu, or a sinus infection can set off asthma and make it worse. Weather: cold air, dry air, or sudden weather changes. Physical exertion can trigger some people. And strong emotions or stress can bring on or worsen an attack.
+
+Here is what makes this so important. A huge number of these triggers are things present in a care facility ΓÇö and many are things a CNA directly controls. The perfume you wear. The cleaning products used near a resident. How much dust collects in their room. Whether sick visitors come close. Whether the resident gets chilled. By being aware of triggers, a CNA can prevent a large share of attacks before they ever begin.
+
+Each resident's triggers can be different, and known triggers are usually listed in the care plan. So the practical message is this: learn each resident's specific triggers, keep their environment clean and irritant-free, protect them from infection and chilling, and you become a powerful force for preventing asthma attacks.
+--- [emergency/scenario intro] block id: asthma-si-intro-audio ---
+With asthma, attacks can worsen fast, so knowing when to call the nurse and when to activate emergency help is critical. You're about to work through two situations. Read each carefully, choose your action, and you'll get feedback right away. And keep the scope rule front of mind: when an attack happens, you call the nurse ΓÇö you never decide to give the rescue inhaler yourself.
+--- [case study] block id: asthma-cs-audio ---
+Mrs. Okonkwo, 79, had asthma that was usually well-controlled. Her CNA, Tomas, knew her triggers from the care plan: strong scents and dust set her off. For weeks she'd been fine.
+
+**The change:** One afternoon a well-meaning new staff member plugged a strongly scented air freshener into the outlet in the hallway near Mrs. Okonkwo's room, hoping to make the unit smell nice. Within an hour, Tomas noticed Mrs. Okonkwo starting to cough, then a soft wheeze, then telling him her chest felt "tight, like one of my attacks coming."
+
+**The recognition:** Tomas knew this pattern. He helped her sit upright in her chair, stayed calm and beside her, and spoke gently to keep her from panicking. He recognized the early signs of an asthma attack ΓÇö and he didn't wait to see if it would pass. He pressed the call button: "Asthma attack starting, room 9, please come now." He did not reach for her rescue inhaler, even though it was in her drawer and she said it was an attack ΓÇö he knew that was the nurse's call.
+
+**The trigger spotted:** While staying with Mrs. Okonkwo, Tomas connected the dots ΓÇö the new scent in the hallway. He mentioned it to the nurse immediately: "There's a new strong air freshener in the hall ΓÇö that's one of her known triggers." The nurse arrived, managed Mrs. Okonkwo's rescue medication, and the air freshener was removed from the unit at once.
+
+**The outcome:** Because Tomas recognized the attack early, kept Mrs. Okonkwo calm and upright, and got the nurse fast, the attack was treated quickly and stayed mild. And because he identified the trigger and reported it, the air freshener was removed ΓÇö preventing not just a worse attack for Mrs. Okonkwo, but attacks in every other resident with asthma on the unit.
+
+**Discussion:** Tomas did the whole CNA role in asthma. He knew her triggers and recognized the attack early. He stayed calm and positioned her well ΓÇö real treatment. He responded fast and stayed in his scope, calling the nurse rather than giving the inhaler himself. And he spotted and reported the environmental trigger, protecting the whole unit. Notice that the medication was never his job ΓÇö but everything around it was, and it made all the difference.
+
+=== COURSE 19 ΓÇö Pneumonia: Recognition and Care Support for CNAs ΓÇö seed-course-19-pneumonia.ts ===
+--- [statistics/mini-video] block id: pneum-mv-audio ---
+Pneumonia: A Leading Killer of Older Adults
+
+Pneumonia is one of the leading causes of hospitalization and death among older adults in the United States. Each year, it puts hundreds of thousands of older Americans in the hospital, and for those over 65 it is far more likely to be severe or fatal than for younger people. In long-term care facilities, pneumonia is one of the most common serious infections residents face.
+
+Why is pneumonia so dangerous for older adults? Their immune systems are often weaker, so infections take hold more easily and spread faster. Many have other conditions ΓÇö heart disease, COPD, diabetes, dementia ΓÇö that reduce their reserves. And critically, their bodies often don't mount the obvious warning signs younger people show. An older adult with pneumonia may not have a high fever or a dramatic cough. Instead, the first sign might be new confusion, sudden weakness, a fall, or simply not eating. This is why pneumonia in the elderly is so often caught late ΓÇö and why a CNA who knows the subtle signs is so valuable.
+
+A large share of pneumonia in long-term care is aspiration pneumonia ΓÇö caused by food, liquid, or saliva entering the lungs. Residents with swallowing problems, dementia, or who are fed in poor positions are at high risk. And here is the encouraging part: aspiration pneumonia is largely preventable. Studies show that good mouth care, safe feeding practices, and proper positioning dramatically reduce it. All of these are CNA responsibilities.
+
+Pneumonia is also often preventable through vaccination ΓÇö flu and pneumonia vaccines significantly lower the risk ΓÇö and through good infection control and hand hygiene.
+
+The bottom line for CNAs: pneumonia is common, deadly, and often hides its early signs in older adults. But much of it is preventable, and early recognition saves lives. Both prevention and recognition rest heavily on the daily work of CNAs.
+--- [causes] block id: pneum-causes-audio ---
+What Causes Pneumonia ΓÇö and Who Is Most at Risk?
+
+Pneumonia is caused by germs that infect the lungs ΓÇö most often bacteria or viruses. The germs reach the lungs in different ways, and understanding these helps a CNA prevent pneumonia.
+
+Sometimes germs are simply breathed in, from the air or from another sick person. This is why infection control and hand hygiene matter, and why a resident with a cold or the flu can develop pneumonia as a complication.
+
+But in long-term care, one of the biggest causes is aspiration ΓÇö when food, liquid, saliva, or stomach contents go into the lungs instead of the stomach, bringing germs with them. Aspiration pneumonia is especially common in residents who have trouble swallowing, which happens after strokes, with dementia, and with general weakness. It's also more likely when residents are fed too quickly, fed in a poor position like lying back, or have poor mouth care that lets germs build up in the mouth.
+
+Several factors raise a resident's risk. Age itself weakens the immune system. Chronic conditions like COPD, heart failure, and diabetes reduce reserves. Swallowing difficulties raise aspiration risk. Poor mobility ΓÇö being bedbound ΓÇö lets fluid settle in the lungs. A weakened cough makes it harder to clear the lungs. And poor oral hygiene fills the mouth with bacteria that can be aspirated.
+
+Here's why this matters so much to the CNA: nearly every one of these risk factors connects to daily CNA care. Safe feeding and positioning prevent aspiration. Good mouth care reduces the germs available to aspirate. Helping residents move and reposition keeps the lungs clearer. Hand hygiene and infection control reduce the spread of germs. Supporting vaccines lowers risk.
+
+So the practical message is powerful: the CNA isn't just caring for residents with pneumonia ΓÇö the CNA is one of the strongest forces preventing it in the first place.
+--- [emergency/scenario intro] block id: pneum-si-intro-audio ---
+With pneumonia, the two key skills are catching the subtle early signs and recognizing when breathing trouble has become an emergency. You're about to work through two situations. Read each carefully, choose your action, and you'll get feedback right away. Keep in mind the theme of this whole course: in older adults, a sudden change in how a resident acts can be the first sign of pneumonia.
+--- [case study] block id: pneum-cs-audio ---
+Mrs. Underwood, 84, had dementia but a steady, predictable routine. Every morning she greeted her CNA, Grace, by name and ate a good breakfast. Grace had cared for her for over a year and knew her rhythms by heart.
+
+**The subtle change (morning):** One morning, Mrs. Underwood didn't greet Grace. She seemed more confused than usual, didn't seem to recognize her at first, and was unusually drowsy. She turned her face away from breakfast ΓÇö she who never refused a meal. She had no cough. When Grace touched her forehead, she felt maybe slightly warm, but not hot. To a rushed eye, it might have looked like "just a bad dementia day."
+
+**What Grace did NOT do:** Grace did not shrug it off as an off day. She did not force the meal. She did not decide to "wait and see" until the afternoon.
+
+**What Grace DID:** Grace trusted what she knew. This was a sudden change from Mrs. Underwood's normal ΓÇö new confusion, drowsiness, no appetite. Grace reported it to the nurse right away, describing it precisely: "Mrs. Underwood is much more confused and drowsy than her normal this morning, didn't recognize me, refused breakfast which she never does, and feels a little warm. This is a sudden change."
+
+**The diagnosis:** The nurse assessed Mrs. Underwood, found her breathing slightly faster and her oxygen a little low, and called the doctor. A chest evaluation confirmed early pneumonia ΓÇö caught before she ever developed an obvious cough or high fever. She was started on antibiotics that same day.
+
+**The outcome:** Because the pneumonia was caught so early, Mrs. Underwood was treated in the facility and recovered fully over the following week ΓÇö no hospital stay, no crisis. The nurse told Grace: "Most people would've called that a bad dementia day. You caught a pneumonia before it had a cough. That's what saved her a hospital trip."
+
+**Discussion:** Mrs. Underwood never showed the "classic" pneumonia signs. No cough, no high fever. Her pneumonia hid behind new confusion, drowsiness, and refusing food ΓÇö exactly how it often presents in older adults. Grace's value wasn't medical knowledge of antibiotics; it was knowing Mrs. Underwood's normal, refusing to dismiss the change, and reporting it promptly. That's the whole heart of pneumonia recognition in the elderly.
+
+=== COURSE 20 ΓÇö Tuberculosis: Warning Signs and Precautions Every CNA Must Know ΓÇö seed-course-20-tuberculosis.ts ===
+--- [statistics/mini-video] block id: tb-mv-audio ---
+Tuberculosis: Not a Disease of the Past
+
+Many people assume tuberculosis disappeared long ago. It did not. TB remains one of the world's deadliest infectious diseases, and it still occurs in the United States ΓÇö including in California, which reports among the highest numbers of TB cases of any state. Thousands of new TB cases are diagnosed in the US each year, and the disease has not gone away.
+
+For long-term care, TB carries special importance for a few reasons. First, older adults are at higher risk: many were exposed to TB decades ago, when it was far more common, and carry latent ΓÇö sleeping ΓÇö infection that can reactivate as their immune systems weaken with age or illness. Second, long-term care is congregate living ΓÇö many people sharing indoor air in close quarters ΓÇö which is exactly the setting where an airborne disease can spread. Third, residents often have weakened immune systems that let TB take hold and progress.
+
+Here's what makes the CNA so important. Because TB can hide as a slow, vague illness ΓÇö a lingering cough, weight loss, night sweats, fatigue ΓÇö it's sometimes mistaken for "just getting older" or another condition, and goes unrecognized. An unrecognized active case in a facility can expose many residents, visitors, and staff before anyone realizes TB is present. A CNA who knows the warning signs and reports them helps TB get identified and isolated quickly.
+
+And once TB is known, the CNA is central to stopping its spread. Airborne isolation precautions, proper use of the N95 respirator, and supporting the resident's long medication course are how facilities protect everyone. The good news: TB is treatable and curable with the right medications taken faithfully over many months ΓÇö and CNAs help make that happen.
+
+The bottom line: TB still exists, long-term care is a high-risk setting, and a CNA's recognition and precautions protect not just one resident but the entire community of a facility.
+--- [causes] block id: tb-causes-audio ---
+What Causes TB ΓÇö and Who Is at Risk?
+
+Tuberculosis is caused by a specific bacteria that usually attacks the lungs. It spreads from person to person through the air ΓÇö and only from someone who has active TB in their lungs or throat. When that person coughs, sneezes, speaks, or sings, they release tiny droplets carrying the bacteria, and people who share that indoor air over time can breathe them in.
+
+It's important to understand how TB does NOT spread, because this prevents both unnecessary fear and unnecessary stigma. TB does not spread by shaking hands, touching surfaces, sharing food or dishes, or brief passing contact. It generally takes breathing the same indoor air with an infectious person over a period of time. This is why congregate living ΓÇö like a long-term care facility ΓÇö raises the risk, and why airborne precautions focus on the air, not on surfaces.
+
+Not everyone who breathes in TB bacteria gets sick. Many people develop latent TB ΓÇö the sleeping form ΓÇö where the bacteria are controlled by the immune system. They feel fine and can't spread it. But that sleeping infection can wake up and become active disease, especially when the immune system weakens.
+
+This is where long-term care residents are particularly vulnerable. Many older adults carry latent TB from exposure decades ago, when the disease was far more common. As they age, or develop conditions like diabetes, kidney disease, cancer, or HIV, or take medications that suppress the immune system, that old sleeping infection can reactivate into active, contagious disease. Frailty, poor nutrition, and the stresses of illness all raise the risk.
+
+For the CNA, the practical message is twofold. First, understand that TB spreads through shared air, so the precautions protect by controlling air and using proper respiratory protection. Second, know that the residents most at risk are older adults with weakened immune systems ΓÇö which describes much of the long-term care population ΓÇö so vigilance for warning signs matters. Compassion matters too: TB is a disease, not a moral failing, and residents with TB deserve the same dignity and care as anyone else.
+--- [emergency/scenario intro] block id: tb-si-intro-audio ---
+With TB, the key judgments are recognizing the warning signs of a possible hidden case, and following precautions exactly to protect everyone. You're about to work through two situations. Read each carefully, choose your action, and you'll get feedback right away. Remember the theme of this course: recognition and protection ΓÇö protecting the resident, protecting others, and protecting yourself.
+--- [case study] block id: tb-cs-audio ---
+Mr. Petrosyan, 80, had immigrated decades ago and had lived at the facility for three years. His CNA, Lourdes, knew him well. That winter, he developed a cough everyone assumed was seasonal.
+
+**The overlooked pattern:** Weeks passed and the cough didn't clear. Lourdes found herself changing his sweat-soaked bedding many mornings ΓÇö night sweats, though no one had connected it. His appetite had faded and his clothes hung loose; he'd quietly lost weight. He was more tired than usual. Each sign on its own seemed minor and easy to blame on winter or age. But Lourdes started to feel uneasy about the whole picture.
+
+**The recognition:** One morning, Mr. Petrosyan coughed into a tissue and Lourdes saw a streak of blood. That was the moment the pattern came together in her mind ΓÇö a cough lasting over a month, night sweats, weight loss, fatigue, and now blood. She remembered her TB training. She didn't diagnose anything, and she didn't panic. She reported the full pattern to the nurse clearly: "Cough over a month now, with blood today, plus weeks of night sweats and weight loss and fatigue. I'm concerned this could be TB."
+
+**The response:** The nurse took it seriously immediately. Mr. Petrosyan was placed on airborne precautions as a precaution, evaluated, and tested. The sputum tests confirmed active pulmonary TB. Because it was caught when Lourdes connected the pattern, he was isolated quickly, and the facility began testing and protecting the residents and staff who'd been near him.
+
+**The care that followed:** Mr. Petrosyan began his months-long course of TB medications. Lourdes wore her fitted N95 every time she entered, kept the door closed, and followed every precaution exactly. But she also made sure he wasn't left lonely in isolation ΓÇö she spent unhurried time with him, made eye contact through her mask, and encouraged him through a frightening, isolating diagnosis. She reported faithfully when he took his medications and watched for side effects.
+
+**The outcome:** Mr. Petrosyan completed his full treatment and was cured. No other resident developed active TB, because the case was caught and contained. The nurse told Lourdes: "Everyone called that a winter cough. You saw the pattern. You protected this whole building ΓÇö and you didn't let him feel alone doing it."
+
+**Discussion:** Lourdes's value came in two parts. First, recognition: she connected a month-long cough, night sweats, weight loss, and blood into a TB pattern and reported it, instead of accepting "winter cough." Second, protection with compassion: she followed airborne precautions perfectly to protect everyone, while still treating Mr. Petrosyan with warmth and dignity through a lonely illness. She never diagnosed, never gave a medication, never read a test ΓÇö and she made all the difference.
+
+=== COURSE 21 ΓÇö Caring for a Resident with Parkinson's Disease ΓÇö seed-course-21-parkinsons.ts ===
+--- [statistics/mini-video] block id: park-mv-audio ---
+Parkinson's Disease: Common, Progressive, and Manageable
+
+Parkinson's disease affects nearly one million people in the United States, and that number is rising as the population ages. It's the second most common condition of its kind affecting the brain's movement system, after no other being more common in older adults of its type. Most people are diagnosed after age 60, which is why it's frequently seen in long-term care.
+
+Parkinson's is a progressive disease ΓÇö it slowly worsens over years. Early on, symptoms may be mild: a slight tremor, a little stiffness. Over time, movement becomes slower and more difficult, balance worsens, and other problems emerge with speech, swallowing, mood, and sometimes thinking. By the time many people with Parkinson's are in long-term care, the disease is more advanced and daily care needs are significant.
+
+Here's what matters most for the CNA, and it centers on two big risks. The first is falls. Parkinson's causes poor balance, freezing of movement, and a shuffling walk ΓÇö a combination that makes falls very common and very dangerous in older adults. Careful fall prevention by CNAs directly protects these residents. The second is swallowing problems, which raise the risk of aspiration and pneumonia. Safe eating support is essential.
+
+There's also a crucial medication story. Parkinson's symptoms are controlled by medications that must be taken on a strict schedule. When doses are on time, residents move and function far better. When doses are late ΓÇö even by a little ΓÇö residents can quickly become rigid, unable to move, and unsafe. Studies show that delayed Parkinson's medication in care settings leads to worse symptoms and more complications. CNAs play a key role in keeping medication on schedule by reporting promptly and supporting the routine.
+
+The encouraging part: with good medication management, fall prevention, safe eating, therapy, and patient daily care, residents with Parkinson's can maintain meaningful function and quality of life for years. Much of that care is delivered by CNAs.
+--- [causes] block id: park-causes-audio ---
+What Causes Parkinson's Disease?
+
+Parkinson's disease happens when certain cells deep in the brain ΓÇö the ones that produce dopamine, the chemical that helps control smooth movement ΓÇö slowly stop working and die. As dopamine drops, the brain loses some control over movement, and the symptoms of Parkinson's appear. By the time symptoms show, a significant number of these cells have already been lost.
+
+But why those cells start dying is something scientists are still working to fully understand. In most people, there is no single clear cause. It's believed to come from a combination of factors ΓÇö a mix of genetics and environment that varies from person to person.
+
+Age is the biggest known risk factor. Parkinson's becomes much more common as people get older, which is why it's so often seen in long-term care. A small number of cases run in families and are linked to specific genes, but most people with Parkinson's have no family history of it. Some research links long-term exposure to certain pesticides, chemicals, or toxins to a higher risk, and men are somewhat more likely to develop it than women.
+
+Here's the important point for CNAs: in almost all cases, Parkinson's is not something the resident caused or could have prevented. It's not from a poor lifestyle or a personal failing. This matters because it shapes how we care ΓÇö with compassion and without any hint of blame.
+
+And because the cause usually can't be undone, the focus of care is on managing symptoms and preventing complications ΓÇö which is exactly where the CNA's daily work shines. You can't change why a resident has Parkinson's, but you have enormous influence over their safety, comfort, and quality of life. Preventing falls, supporting safe eating, helping keep medication on time, encouraging movement and independence, and providing patient, respectful care ΓÇö these are the things that make a real difference every single day.
+--- [emergency/scenario intro] block id: park-si-intro-audio ---
+With Parkinson's, two situations test your judgment most: recognizing when a resident is going "off" because medication is due, and recognizing a true emergency like choking or a serious medication reaction. You're about to work through two situations. Read each carefully, choose your action, and you'll get feedback right away. Keep the course theme in mind: you don't give the medication, but you are the alarm that keeps it on time.
+--- [case study] block id: park-cs-audio ---
+Mr. Okonkwo, 74, had Parkinson's disease and had lived at the facility for two years. His CNA, Marisol, had learned his rhythms carefully. With his medication on schedule, he could walk with his walker, feed himself slowly, and loved talking about his years as a schoolteacher ΓÇö though his voice was soft and his face showed little expression.
+
+**The pattern Marisol learned:** Marisol noticed that Mr. Okonkwo's good mornings depended entirely on timing. His doses were scheduled at 8:00, 11:00, 2:00, and 5:00 ΓÇö not the same as the regular medication pass. When his 11:00 dose was on time, he stayed steady through lunch. When it ran even twenty or thirty minutes late, she watched him change: by 11:15 he'd start stiffening, his tremor worsening, until he could barely rise from his chair or safely manage his food.
+
+**The day it mattered:** One busy morning, Marisol noticed it was 10:50 and Mr. Okonkwo was already beginning to stiffen ΓÇö his "off" state coming on a little early, and the unit was short-staffed with the nurse tied up. A less experienced aide might have waited, assuming the nurse would get to it. Marisol didn't wait. She went to the nurse directly: "Mr. Okonkwo is going off early and his 11:00 dose is critical ΓÇö he's already stiffening and he's got lunch coming. Can we keep his dose on time?" The nurse, alerted, prioritized his dose and gave it right at 11:00.
+
+**What it prevented:** Because the dose stayed on time, Mr. Okonkwo stayed "on" through lunch ΓÇö able to swallow safely, feed himself, and avoid the rigid, frozen state that would have made eating dangerous and a fall likely. Marisol stayed with him through the meal anyway, unhurried, listening to a story about his old classroom.
+
+**The contrast:** A week earlier, on a day Marisol was off, his 11:00 dose had been delayed by forty minutes during a busy shift. He'd gone fully "off," frozen getting up, and had a near-fall, and lunch had to be stopped because he couldn't swallow safely. The difference between the two days was nothing more than the timing of one pill.
+
+**Discussion:** Marisol never gave the medication ΓÇö that wasn't her role. But she knew Mr. Okonkwo's "off" pattern, recognized it coming early, and acted as the alarm that kept his dose on time. That single piece of CNA vigilance was the difference between a safe, dignified lunch and a frozen, dangerous one. She also showed the other half of Parkinson's care: patience and respect, listening to his stories with his slow, soft voice, treating the sharp mind behind the masked face.
+
+=== COURSE 22 ΓÇö Seizures and Epilepsy: The CNA's Response ΓÇö seed-course-22-seizures-epilepsy.ts ===
+--- [statistics/mini-video] block id: seiz-mv-audio ---
+Seizures and Epilepsy: More Common in Older Adults Than Most People Think
+
+About 3.4 million Americans live with epilepsy, and roughly 1 in 10 people will experience at least one seizure in their lifetime. Here's the fact that surprises many: epilepsy is not mainly a childhood condition. New cases of epilepsy are actually most common in two groups ΓÇö young children and adults over 65. In older adults, the rate of new epilepsy is among the highest of any age group, and it keeps rising with age.
+
+Why are seizures so relevant in long-term care? Because the leading causes of new seizures in older adults are exactly the conditions long-term care residents live with. Stroke is the most common cause of new epilepsy in the elderly ΓÇö scarred brain tissue after a stroke can generate seizures. Dementia and Alzheimer's disease raise seizure risk significantly. Brain injuries, brain tumors, infections, very low blood sugar, kidney problems, and certain medication issues can all trigger seizures. So in a long-term care facility, seizures are not rare events ΓÇö they are something every CNA should expect to encounter and be ready for.
+
+The danger of a seizure in an older adult goes beyond the seizure itself. Falls during a seizure can cause fractures and head injuries ΓÇö and many residents are on blood thinners, making head injuries especially dangerous. Aspiration during or after a seizure can lead to pneumonia. And a prolonged seizure ΓÇö five minutes or more ΓÇö is a life-threatening emergency.
+
+Here's the encouraging part. Most seizures stop on their own within a couple of minutes, and when the person nearby responds correctly ΓÇö protecting them from injury, timing the seizure, never restraining them or putting anything in their mouth, positioning them safely afterward, and reporting everything ΓÇö outcomes are far better. Studies of seizure injuries show that many are preventable with correct first response. That correct first responder, in long-term care, is almost always the CNA.
+
+The bottom line: seizures are common in long-term care, they carry real injury risks in the elderly, and the CNA's calm, correct response is the single biggest factor in keeping a seizing resident safe.
+--- [causes] block id: seiz-causes-audio ---
+What Causes Seizures ΓÇö and What Triggers Them?
+
+A seizure is the symptom of an electrical disturbance in the brain ΓÇö and many different things can cause that disturbance, especially in older adults.
+
+In long-term care, the most common cause of new seizures is stroke. When a stroke damages brain tissue, the scarred area can later generate abnormal electrical activity. Dementia and Alzheimer's disease also raise seizure risk ΓÇö the brain changes of dementia make seizures significantly more likely. Past head injuries, brain tumors, and brain infections are other structural causes.
+
+But not all seizures come from brain damage. Some come from problems elsewhere in the body that upset the brain's chemistry. Very low blood sugar ΓÇö especially in residents with diabetes ΓÇö can trigger a seizure. Severe dehydration or imbalances in body salts like sodium can do it. High fevers and serious infections, kidney or liver problems, and alcohol withdrawal are other causes. Certain medications, medication interactions, or suddenly stopping certain drugs can trigger seizures too.
+
+For residents who already have epilepsy, the question becomes: what triggers a breakthrough seizure ΓÇö one that happens despite treatment? The biggest trigger, by far, is missed medication. Skipped or delayed anti-seizure doses are the leading cause of breakthrough seizures. Other common triggers include lack of sleep, illness and fever, stress, dehydration, and in some people flashing lights.
+
+Here's what this means for the CNA. First, in older adults a first-ever seizure is always significant and always reported ΓÇö it often signals something that needs medical attention, from a stroke to low blood sugar. Second, for residents with known epilepsy, you powerfully prevent seizures by supporting the things that prevent them: faithful medication routines ΓÇö reporting any refusal or missed dose immediately ΓÇö good sleep, hydration, nutrition, and a calm environment. You can't control the brain's wiring, but you can absolutely reduce the triggers.
+--- [emergency/scenario intro] block id: seiz-si-intro-audio ---
+When a seizure happens, the minutes belong to you ΓÇö and what you do, and don't do, decides how safely the resident comes through. You're about to work through two situations. Read each carefully, choose your action, and you'll get feedback right away. Keep the course rules in mind: protect, time, observe, report ΓÇö nothing in the mouth, no restraint ΓÇö and five minutes means emergency.
+--- [case study] block id: seiz-cs-audio ---
+Mrs. Fontaine, 79, had epilepsy following a stroke three years earlier, well-controlled on daily medication. Her CNA, Jerome, had read her care plan and knew her history ΓÇö though she hadn't had a seizure in over a year.
+
+**The warning:** One afternoon, while Jerome helped her sort photographs, Mrs. Fontaine paused and said, "Jerome... I feel strange. Like before my seizures." Jerome didn't dismiss it. He immediately helped her from her chair to the bed, moved the photo box and a glass of water off the side table, and pressed the call button for the nurse: "Mrs. Fontaine says she feels a seizure coming, room 22."
+
+**The seizure:** Moments later, it began ΓÇö she stiffened, then started jerking. Jerome's first act was a glance at the wall clock: 3:24. He cushioned her head with a pillow, made sure nothing hard was near her, and loosened her collar. The jerking looked frightening ΓÇö her lips briefly dusky, drooling ΓÇö but Jerome remembered his training: he did not hold her down, and when another aide arrived offering to "put something between her teeth," Jerome said clearly, "No ΓÇö nothing in her mouth. Watch the door for the nurse."
+
+**The observation:** While protecting her, Jerome watched like a camera: the jerking involved her whole body, her eyes rolled upward, it started with her right hand twitching before spreading. At 3:26 ΓÇö two minutes ΓÇö the jerking slowed and stopped.
+
+**The aftercare:** Jerome rolled her gently onto her side, checked her for injuries ΓÇö none ΓÇö and stayed beside her. She woke slowly, confused and frightened: "What... what happened?" Jerome kept his voice calm: "You had a seizure, Mrs. Fontaine. It's over. You're safe, and I've been right here." He gave her nothing to eat or drink while she was drowsy. When the nurse arrived, Jerome reported precisely: "Started 3:24, ended 3:26 ΓÇö two minutes. Began with right-hand twitching, then whole body. Eyes rolled up. Brief dusky lips, drooling, no injury. She had an aura first ΓÇö said she felt strange. She's postictal now, on her side."
+
+**The follow-up:** The nurse's assessment found the cause: Mrs. Fontaine had vomited shortly after her morning medication two days running ΓÇö something that hadn't been connected ΓÇö so her anti-seizure protection had quietly dropped. The doctor adjusted her plan. Jerome's exact timeline and the aura detail helped confirm it was a breakthrough seizure rather than something new.
+
+**Discussion:** Jerome's response was textbook from the first second. He acted on the aura before the seizure struck. He timed it from the start. He protected without restraining and firmly stopped the mouth myth ΓÇö even correcting a coworker in the moment. He used the recovery position, gave calm reassuring aftercare, and delivered a camera-quality report. He never gave a medication and never diagnosed anything ΓÇö and his minutes of correct response kept a frightening event from becoming a harmful one.
+
+=== COURSE 23 ΓÇö Caring for a Resident with Multiple Sclerosis ΓÇö seed-course-23-multiple-sclerosis.ts ===
+--- [statistics/mini-video] block id: ms-mv-audio ---
+Multiple Sclerosis: The Snowflake Disease
+
+Nearly one million people in the United States live with multiple sclerosis. It's one of the most common neurological diseases of younger adults ΓÇö most people are diagnosed between the ages of twenty and forty, and it affects women two to three times more often than men.
+
+That age range matters enormously in long-term care. When MS becomes advanced enough to require facility care, the resident is often far younger than the typical long-term care population ΓÇö a person in their forties, fifties, or sixties, sometimes living among residents decades older. These residents are adults in the middle of life: many had careers, raise families, and have full mental sharpness even when their bodies are severely limited. Research on younger adults in long-term care consistently highlights how much dignity, autonomy, and age-appropriate engagement matter to their wellbeing ΓÇö and CNAs deliver most of that daily respect.
+
+MS is called the snowflake disease because no two cases are alike. Depending on where the nerve damage occurs, symptoms can include weakness, numbness, vision problems, poor balance, spasticity, bladder and bowel problems, pain, thinking changes, and ΓÇö in up to eighty percent of people with MS ΓÇö profound fatigue, which many describe as their most disabling symptom. Symptoms also fluctuate: most people with MS experience relapses, when symptoms flare, and remissions, when they settle.
+
+Two facts shape daily CNA care more than any others. First, heat sensitivity: the majority of people with MS find that heat ΓÇö hot baths, warm rooms, hot weather, fever ΓÇö temporarily worsens their symptoms, sometimes dramatically. Simple cooling measures reverse it. Second, fatigue: MS fatigue is real, physical, and worsens through the day, so morning is often a resident's best time, and pacing matters.
+
+The bottom line: MS residents are often younger, always individual, and highly responsive to good daily care. Temperature management, fatigue pacing, fall prevention, skin protection, dignity, and alert reporting of changes ΓÇö the CNA's daily work ΓÇö directly shape how well a person with MS lives.
+--- [causes] block id: ms-causes-audio ---
+What Causes MS ΓÇö and What Makes It Worse Day to Day?
+
+Multiple sclerosis happens when the body's immune system ΓÇö the defense system meant to fight germs ΓÇö mistakenly attacks the myelin coating around the body's own nerves. Why the immune system makes this mistake is not fully understood, but research points to a combination of factors rather than a single cause.
+
+Genetics play a part: MS is not directly inherited, but having a close family member with MS raises the risk somewhat. Environment matters too: MS is more common in regions farther from the equator, and low vitamin D levels have been linked to higher risk. Certain common viral infections earlier in life ΓÇö particularly the virus that causes mononucleosis ΓÇö are strongly associated with later MS. Smoking raises risk and can worsen the disease course. And MS affects women two to three times more often than men, usually beginning between ages twenty and forty.
+
+Here's the message that matters for care: nothing the resident did caused their MS. It isn't from lifestyle failure or anything they chose. They were, in a real sense, unlucky ΓÇö and they deserve care entirely free of blame.
+
+For the CNA, the more practical question is what makes MS symptoms worse day to day ΓÇö because those aggravators are where you can help. Heat is the biggest: warm baths, hot rooms, summer weather, and fever all temporarily worsen symptoms. Infections ΓÇö even a simple bladder infection ΓÇö can flare MS symptoms or trigger a relapse, which is one reason any sign of infection is reported promptly. Overexertion and fatigue worsen function, so pacing matters. Stress can aggravate symptoms. And missed disease-modifying medications reduce the protection slowing the disease down.
+
+So the practical picture: you can't change why a resident has MS, but you have real influence over the things that make their MS better or worse each day ΓÇö keeping them cool, pacing their energy, catching infections early, keeping care calm, and supporting their medication routine.
+--- [emergency/scenario intro] block id: ms-si-intro-audio ---
+With MS, your two key judgments are responding safely when heat suddenly steals a resident's strength, and recognizing the new or worsening symptoms that may signal a relapse. You're about to work through two situations. Read each carefully, choose your action, and you'll get feedback right away. Keep the course themes in mind: heat worsens MS and cooling reverses it ΓÇö and anything new or worse gets reported.
+--- [case study] block id: ms-cs-audio ---
+Ms. Delgado, 52, had lived with MS for twenty years and in the facility for two. She was sharp, funny, and proud ΓÇö a former bookkeeper who still managed her own budget from her wheelchair. Her CNA, Binh, enjoyed their morning conversations.
+
+**The puzzling pattern:** Binh noticed something that troubled him. Most mornings, Ms. Delgado was at her best ΓÇö transferring with minimal help, feeding herself, reading. But nearly every afternoon, around two o'clock, she seemed to fall apart: legs too weak for transfers, vision too blurry to read, so drained she could barely talk. A few staff had started saying she was "being difficult in the afternoons" or "didn't want to participate." Binh didn't believe it. The morning Ms. Delgado and the afternoon Ms. Delgado were the same person ΓÇö something physical was happening.
+
+**The detective work:** Binh started paying attention to the details around two o'clock. Her room faced west ΓÇö by early afternoon, sun poured in and the room grew noticeably warm. Her bath was scheduled at one ΓÇö and the aide who usually ran it liked the water comfortably hot. Warm room, hot bath, early afternoon: heat, heat, heat. Binh remembered his MS training ΓÇö heat sensitivity ΓÇö and connected the pattern.
+
+**The report:** Binh brought it to the nurse, with specifics: "Ms. Delgado is strong every morning and crashes every afternoon ΓÇö right after a hot one o'clock bath, in a room that gets hot from the western sun. I think this is MS heat sensitivity, not behavior. Could we look at the bath temperature and the room?"
+
+**The changes:** The nurse agreed and acted. The bath moved to morning and ran lukewarm. A fan and a window shade went into her room, and her care plan noted cool-room measures for afternoons. Binh started offering her a cool drink after lunch.
+
+**The outcome:** Within days, the two o'clock crashes nearly vanished. Ms. Delgado kept her afternoons ΓÇö reading, visiting, managing her budget. She told Binh, "I thought I was just getting worse. Turns out I was just getting cooked." The "difficult in the afternoons" talk stopped, replaced by a care plan that matched her disease.
+
+**Discussion:** Nothing about Ms. Delgado's MS changed ΓÇö only the temperature around her did. Binh's contribution wasn't medical: it was knowing her baseline, refusing the "difficult resident" label, noticing the heat pattern, and reporting it with specifics. One observant CNA converted a daily decline into a solvable problem ΓÇö and gave a sharp, proud woman her afternoons back.
+
+=== COURSE 24 ΓÇö Traumatic Brain Injury: What Every CNA Must Know ΓÇö seed-course-24-traumatic-brain-injury.ts ===
+--- [statistics/mini-video] block id: tbi-mv-audio ---
+Traumatic Brain Injury: The Fall at the Center of It
+
+Traumatic brain injury is a major cause of death and disability in the United States. Each year there are millions of TBI-related emergency visits, and hundreds of thousands of hospitalizations. More than five million Americans live with a long-term disability from a TBI ΓÇö people of every age, injured by falls, vehicle crashes, assaults, and sports.
+
+For long-term care, two numbers tower over the rest. First: falls are the leading cause of TBI, responsible for roughly half of all TBI hospitalizations. Second: adults over seventy-five have the highest rates of TBI-related hospitalization and death of any age group. Put plainly ΓÇö the typical TBI victim is not a young athlete; it is an older adult who fell. That is exactly the population CNAs care for every day.
+
+Why are older adults hit so hard by head injuries? With age, the brain naturally shrinks slightly inside the skull, stretching the small veins that bridge the gap ΓÇö making them easier to tear in a fall. Healing is slower. And critically, many older adults take blood-thinning medications for their hearts, which means even a minor head bump can lead to serious bleeding inside the skull. A bump that a younger person shrugs off can, in an older adult on blood thinners, become a slow, hidden, life-threatening bleed.
+
+And that bleed often hides. After a fall, an older adult may seem completely fine ΓÇö talking, joking, refusing a fuss ΓÇö while blood slowly collects and presses on the brain over hours or even days. By the time obvious symptoms appear, the situation is critical. This is why every head strike in an older adult is reported and monitored, no matter how fine the person seems, and why the hours after a fall are watched so carefully.
+
+There is also the long-term story: many residents ΓÇö including younger ones ΓÇö live with the lasting effects of an old TBI: memory problems, slowed thinking, and changes in behavior and emotion. Their quality of life depends heavily on structured, calm, patient daily care.
+
+The bottom line: falls cause most TBIs, elderly residents are the most vulnerable, blood thinners raise the stakes, the danger often hides behind a "fine" face ΓÇö and the CNA's reporting and vigilance in the hours after a fall can be the difference between life and death.
+--- [causes] block id: tbi-causes-audio ---
+What Causes TBI ΓÇö and Why Falls Rule Long-Term Care
+
+Traumatic brain injuries come from outside forces. Across the whole population, the causes include falls, motor vehicle crashes, being struck by objects, assaults, and sports injuries. Many younger TBI survivors ΓÇö some of whom now live in long-term care ΓÇö were injured in car or motorcycle crashes, workplace accidents, or assaults years ago.
+
+But in long-term care, one cause stands above all others: falls. Falls are the leading cause of TBI overall, and among older adults they dominate completely. A fall from standing height ΓÇö simply tipping over and striking the head on the floor, a counter, or furniture ΓÇö is enough to cause a serious brain injury in an older adult. Falls in bathrooms, falls getting out of bed, falls during transfers, falls while walking: every one of them carries head-injury potential.
+
+Why are older adults so vulnerable to brain injury from falls? Several reasons stack together. The aging brain shrinks slightly inside the skull, stretching the small bridging veins that cross the gap ΓÇö stretched veins tear more easily, even in minor impacts. Blood vessels become more fragile with age. Blood-thinning medications, which many residents take for heart conditions, mean that once bleeding starts, it doesn't stop easily ΓÇö turning minor tears into major bleeds. Balance problems, weakness, vision changes, and medications that cause dizziness make the falls themselves more likely. And slower healing means worse outcomes from the same injury.
+
+There's a vicious cycle worth knowing: a TBI causes dizziness and balance problems, which cause more falls, which cause more head injuries. Residents with a prior brain injury are at higher risk of the next one.
+
+Here's what this means for the CNA, and it's empowering: because falls cause most TBIs, fall prevention is brain injury prevention. Every cleared walkway, every answered call light, every supervised transfer, every pair of proper footwear, every brake set on a wheelchair is directly protecting a resident's brain. The same daily fall-prevention work you already do is the single most powerful TBI prevention that exists.
+--- [emergency/scenario intro] block id: tbi-si-intro-audio ---
+With head injuries, the two judgments that save lives are refusing to let a "fine-looking" head strike go unreported, and recognizing the delayed signs that mean a hidden bleed. You're about to work through two situations. Read each carefully, choose your action, and you'll get feedback right away. Keep the course rule front of mind: fine now does not mean fine.
+--- [case study] block id: tbi-cs-audio ---
+Mr. Whitfield, 82, was a proud, independent man who took apixaban ΓÇö a blood thinner ΓÇö for his heart. His CNA, Katya, had cared for him for a year and knew his sharp wit and his habit of refusing "any fuss."
+
+**The fall:** One morning, Katya heard a bump and found Mr. Whitfield steadying himself against the bathroom doorframe. He admitted he'd slipped and "grazed" his head on the doorframe ΓÇö "barely a tap, don't you dare bother anyone." He was steady, clear, joking about his own clumsiness. He looked completely fine.
+
+**What Katya did anyway:** Katya reported it immediately ΓÇö kindly but without negotiation. "I hear you, Mr. Whitfield, but a head tap plus your blood thinner means the nurse takes a look. That's the deal." She told the nurse exactly what happened, what he said, and ΓÇö in the same breath ΓÇö that he was on apixaban. The nurse assessed him, found nothing alarming, and started periodic checks, asking staff to keep watching him.
+
+**The watch:** Katya watched. Through the morning, he was himself ΓÇö breakfast, crossword, complaints about the coffee. After lunch, around five hours after the fall, something shifted. He skipped his usual hallway walk, saying he was "worn out." By two o'clock she found him asleep in his recliner ΓÇö not unusual by itself ΓÇö but when she woke him to offer water, he was foggy, asked her the same question twice, and drifted back off mid-sentence. His "nap" wasn't restful; it was pulling him under.
+
+**The recognition:** Katya put it together: head strike this morning, blood thinner, and now deepening drowsiness with new confusion. The lucid interval was closing. She didn't tell herself he was just tired. She alerted the nurse immediately: "Mr. Whitfield is much drowsier than his normal, confused, hard to keep awake ΓÇö five hours after this morning's head strike, and he's on apixaban." The nurse's check confirmed deterioration; emergency services were activated.
+
+**The outcome:** At the hospital, a scan found a subdural hematoma ΓÇö a slow bleed pressing on his brain. Because it was caught while he was drowsy rather than unresponsive, it was treated in time, and Mr. Whitfield recovered. The nurse later told Katya: "He looked fine at nine. If you'd let that 'nap' be a nap, we'd have found him too late. The morning report started the watch ΓÇö and the afternoon call saved him."
+
+**Discussion:** Katya made two decisions, hours apart, and both were the course in action. First, she reported a "barely a tap" head strike from a resident who begged her not to ΓÇö because every head strike gets reported, and blood thinners get said out loud. Second, she refused to explain away the afternoon change ΓÇö drowsiness plus confusion after a morning head strike isn't tiredness, it's the delayed sign of a bleed. She never assessed, never diagnosed, never gave anything. She reported, watched, and reported again ΓÇö and that was everything.
+
+=== COURSE 25 ΓÇö Caring for a Resident with a Spinal Cord Injury ΓÇö seed-course-25-spinal-cord-injury.ts ===
+--- [statistics/mini-video] block id: sci-mv-audio ---
+Spinal Cord Injury: Often Young, Always Individual
+
+Around 300,000 people in the United States live with a spinal cord injury, with roughly 18,000 new injuries each year. Here's a fact that shapes how we care: spinal cord injuries strike the young especially hard. The average age at injury has historically been in the young-adult range, and a large share of injuries happen to people in their teens, twenties, and thirties. So while long-term care residents are often elderly, a resident with a spinal cord injury may be decades younger than those around them ΓÇö an alert, capable adult whose body, not whose mind, has been changed.
+
+The leading causes are vehicle crashes and falls, followed by acts of violence and sports injuries. In older adults, falls are an increasingly common cause. However the injury happened, the result is the same pattern: below the level of injury, the resident loses movement and, critically, sensation.
+
+That loss of sensation is the source of the most common and dangerous complications ΓÇö and the ones CNAs most directly prevent. Pressure injuries are at the top of the list. Because a resident can't feel the discomfort that would normally make them shift position, skin over bony areas can break down silently and quickly, sometimes in just hours. Pressure injuries are a leading cause of hospitalization and serious illness in SCI, and they are largely preventable through faithful repositioning and skin care.
+
+Other major complications include urinary tract infections from bladder management, respiratory problems in higher injuries where breathing muscles are affected, blood clots from immobility, and a unique emergency called autonomic dysreflexia ΓÇö a sudden, dangerous spike in blood pressure that can occur in higher injuries.
+
+Here's the empowering truth for CNAs: nearly every one of these complications is influenced by daily hands-on care. Repositioning and skin checks prevent pressure injuries. Careful bladder and bowel routines prevent infections and trigger fewer emergencies. Recognizing autonomic dysreflexia fast can save a life. And alongside all of it, treating a young, aware adult with full dignity and respect for their independence shapes their entire quality of life.
+
+The bottom line: SCI residents are often young and always individual, the loss of sensation drives serious but preventable complications, and the CNA's daily vigilance and dignity are central to keeping them safe and whole.
+--- [causes] block id: sci-causes-audio ---
+What Causes Spinal Cord Injury ΓÇö and What Triggers Its Complications?
+
+Spinal cord injuries happen when the spinal cord is damaged by trauma or, less often, by disease. The leading causes are traumatic: motor vehicle crashes are the single biggest cause, followed by falls, which are an especially common cause in older adults. Acts of violence and sports and recreation injuries account for many of the rest. Less commonly, the spinal cord can be damaged by tumors, infections, or loss of blood supply.
+
+Because trauma causes most injuries, and trauma often strikes the young and active, many people with spinal cord injuries are injured early in life. This is why a long-term care resident with SCI may be a young adult ΓÇö someone whose life changed in an instant in a car or a fall, and who now lives with an intact mind in a changed body. Understanding this shapes the respect and dignity these residents deserve.
+
+Once someone is living with a spinal cord injury, the more practical question for daily care is what triggers the complications ΓÇö because those are what CNAs prevent and catch.
+
+Pressure injuries are triggered by unrelieved pressure on skin that can't feel it ΓÇö so staying too long in one position is the trigger, and repositioning is the prevention. Urinary tract infections are triggered by bladder management, so careful, clean catheter and toileting routines and good hydration reduce them. And autonomic dysreflexia ΓÇö the dangerous blood-pressure emergency ΓÇö has very specific triggers worth memorizing: the most common is a full bladder or a kinked, blocked catheter; next is a full bowel or constipation; and then skin problems like a pressure sore, a tight garment, or even an ingrown toenail. The body, unable to send a normal pain signal, reacts with a blood-pressure surge instead.
+
+Here's what this means for the CNA: the same faithful daily care prevents multiple problems at once. Keeping the catheter unkinked and draining, following the bladder and bowel schedule, repositioning and checking skin, and keeping clothing and positioning comfortable don't just prevent sores and infections ΓÇö they remove the very triggers that set off autonomic dysreflexia. Your routine care is protection on several fronts at the same time.
+--- [emergency/scenario intro] block id: sci-si-intro-audio ---
+With spinal cord injury, the emergency that tests you most is autonomic dysreflexia ΓÇö sudden, dangerous, and unique to SCI. The other key skill is taking a silent warning sign seriously when the resident can't feel it. You're about to work through two situations. Read each carefully, choose your action, and you'll get feedback right away. Keep the response in mind: for autonomic dysreflexia ΓÇö sit them up, loosen clothing, check the catheter, get help now.
+--- [case study] block id: sci-cs-audio ---
+Diego Reyes was thirty-one, injured in a motorcycle crash three years earlier, with a high spinal cord injury affecting all four limbs. Sharp, funny, and fiercely independent, he directed his own care down to the details. His CNA, Amara, respected that completely ΓÇö she'd learned to listen to him as the expert on his own body.
+
+**A normal afternoon:** Amara was helping another resident when Diego called out, his voice tight: "Amara ΓÇö something's wrong. My head is pounding, came on out of nowhere. Bad." Amara came immediately. His face was flushed and beaded with sweat across his forehead and above his chest, though below that he looked normal. He seemed anxious. "This isn't a regular headache," he said. "I think it's my dysreflexia."
+
+**What Amara knew:** Amara had trained for exactly this. A sudden pounding headache with sweating and flushing above the injury in a resident with a high SCI meant autonomic dysreflexia ΓÇö a dangerous blood-pressure spike, a true emergency. She also knew Diego knew his own body, and when he named it, she believed him instantly.
+
+**What Amara did ΓÇö in order:** First, she sat him fully upright, not flat ΓÇö she knew lying down would worsen the blood pressure. She loosened the collar of his shirt and a strap across his lap. Then she looked for the trigger: his catheter bag was full and the tubing had kinked under his arm where he'd shifted, so urine wasn't draining ΓÇö a classic dysreflexia trigger. She straightened the tubing and it began to flow. And she hit the call button hard, calling out: "Autonomic dysreflexia, room 14, I need the nurse now."
+
+**The resolution:** The nurse arrived within a minute, confirmed Amara's read, checked his blood pressure ΓÇö high, as expected ΓÇö and took over, with emergency protocols ready. With the catheter draining and Diego upright, the headache and sweating began to ease even before his blood pressure fully normalized. The trigger had been relieved early.
+
+**The outcome:** Diego was fine. The nurse told Amara afterward: "You did everything right, in the right order ΓÇö sat him up, loosened him, found the kink, called us. If you'd laid him down or waited, that blood pressure could've stroked him out. Minutes mattered, and you didn't waste any."
+
+**Discussion:** Amara's response was the whole course in two minutes. She recognized autonomic dysreflexia from the signature signs. She trusted Diego's own knowledge of his body. She acted in the correct order within her scope ΓÇö upright, loosen, find and relieve the trigger, summon help ΓÇö without giving any medication or overstepping. And underneath it all was the respect she'd built: because she listened to Diego as the expert on himself, she moved instantly when he said something was wrong. Vigilance, knowledge, scope, and respect ΓÇö together, they may have saved his life.
